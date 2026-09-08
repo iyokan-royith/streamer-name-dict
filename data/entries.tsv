@@ -1,0 +1,381 @@
+person_id	surface	reading	reading_source	source_url	org	org_source_url	status	added	note
+zeta-k4sen	k4sen	かせん	self_channel_title	https://www.youtube.com/channel/UChUjERVG8eKEAJSCef-tTmg	ZETA DIVISION	https://zetadivision.com/members	active	2026-09-07	チャンネル表示名・ZETA DIVISION members ページとも表記は小文字 k4sen。
+nijisanji-kuzuha	葛葉	くずは	org_kana	https://www.nijisanji.jp/talents/l/kuzuha	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kenmochitoya	剣持刀也	けんもちとうや	org_kana	https://www.nijisanji.jp/talents/l/toya-kenmochi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-higuchikaede	樋口楓	ひぐちかえで	org_kana	https://www.nijisanji.jp/talents/l/kaede-higuchi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+hololive-tokinosora	ときのそら	ときのそら	kana_surface	https://hololive.hololivepro.com/talents/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がひらがな。
+hololive-shirakamifubuki	白上フブキ	しらかみふぶき	wikipedia	https://ja.wikipedia.org/wiki/白上フブキ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-usadapekora	兎田ぺこら	うさだぺこら	wikidata	https://www.wikidata.org/wiki/Q89771228	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-houshoumarine	宝鐘マリン	ほうしょうまりん	wikipedia	https://ja.wikipedia.org/wiki/宝鐘マリン	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-hoshimachisuisei	星街すいせい	ほしまちすいせい	wikidata	https://www.wikidata.org/wiki/Q86731266	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+voms-hikasatomoshika	緋笠トモシカ	ひかさともしか	org_romaji	https://voms.net/	VOMS project	https://voms.net/	active	2026-09-07	公式サイトのローマ字表記から確定。
+nijisanji-hyakumantenbarasalome	壱百満天原サロメ	ひゃくまんてんばらさろめ	org_kana	https://www.nijisanji.jp/talents/l/salome-hyakumantenbara	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kanae	叶	かなえ	org_kana	https://www.nijisanji.jp/talents/l/kanae	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-tsukinomito	月ノ美兎	つきのみと	org_kana	https://www.nijisanji.jp/talents/l/mito-tsukino	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-voxakuma	ヴォックス・アクマ	ゔぉっくすあくま	org_kana	https://www.nijisanji.jp/talents/l/vox-akuma	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hoshikawasara	星川サラ	ほしかわさら	org_kana	https://www.nijisanji.jp/talents/l/sara-hoshikawa	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-fuwaminato	不破湊	ふわみなと	org_kana	https://www.nijisanji.jp/talents/l/minato-fuwa	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-laureniroas	ローレン・イロアス	ろーれんいろあす	org_kana	https://www.nijisanji.jp/talents/l/lauren-iroas	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-lucakaneshiro	ルカ・カネシロ	るかかねしろ	org_kana	https://www.nijisanji.jp/talents/l/luca-kaneshiro	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-angekatrina	アンジュ・カトリーナ	あんじゅかとりーな	org_kana	https://www.nijisanji.jp/talents/l/ange-katrina	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-lizehelesta	リゼ・ヘルエスタ	りぜへるえすた	org_kana	https://www.nijisanji.jp/talents/l/lize-helesta	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-inuitoko	戌亥とこ	いぬいとこ	org_kana	https://www.nijisanji.jp/talents/l/toko-inui	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sasakisaku	笹木咲	ささきさく	org_kana	https://www.nijisanji.jp/talents/l/saku-sasaki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shuyamino	闇ノシュウ	やみのしゅう	org_kana	https://www.nijisanji.jp/talents/l/shu-yamino	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kagamihayato	加賀美ハヤト	かがみはやと	org_kana	https://www.nijisanji.jp/talents/l/hayato-kagami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-machitachima	町田ちま	まちたちま	org_kana	https://www.nijisanji.jp/talents/l/chima-machita	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-lunlun	ルンルン	るんるん	org_kana	https://www.nijisanji.jp/talents/l/lunlun	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ibrahim	イブラヒム	いぶらひむ	org_kana	https://www.nijisanji.jp/talents/l/ibrahim	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yashirokizuku	社築	やしろきずく	org_kana	https://www.nijisanji.jp/talents/l/kizuku-yashiro	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shiinayuika	椎名唯華	しいなゆいか	org_kana	https://www.nijisanji.jp/talents/l/yuika-shiina	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-arsalmal	アルス・アルマル	あるすあるまる	org_kana	https://www.nijisanji.jp/talents/l/ars-almal	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-furenelustario	フレン・E・ルスタリオ	ふれんいーるすたりお	org_kana	https://www.nijisanji.jp/talents/l/furen-e-lustario	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-amamiyakokoro	天宮こころ	あまみやこころ	org_kana	https://www.nijisanji.jp/talents/l/kokoro-amamiya	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ryushen	緑仙	りゅーしぇん	org_kana	https://www.nijisanji.jp/talents/l/ryushen	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-honmahimawari	本間ひまわり	ほんまひまわり	org_kana	https://www.nijisanji.jp/talents/l/himawari-honma	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-suzuharalulu	鈴原るる	すずはらるる	org_kana	https://www.nijisanji.jp/talents/l/lulu-suzuhara	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-albanknox	アルバーン・ノックス	あるばーんのっくす	org_kana	https://www.nijisanji.jp/talents/l/alban-knox	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kaidaharu	甲斐田晴	かいだはる	org_kana	https://www.nijisanji.jp/talents/l/haru-kaida	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-saegusaakina	三枝明那	さえぐさあきな	org_kana	https://www.nijisanji.jp/talents/l/akina-saegusa	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-elu	える	える	org_kana	https://www.nijisanji.jp/talents/l/elu	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-melocokyoran	狂蘭 メロコ	きょうらんめろこ	org_kana	https://www.nijisanji.jp/talents/l/meloco-kyoran	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nuisociere	ニュイ・ソシエール	にゅいそしえーる	org_kana	https://www.nijisanji.jp/talents/l/nui-sociere	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nishizonochigusa	西園チグサ	にしぞのちぐさ	org_kana	https://www.nijisanji.jp/talents/l/chigusa-nishizono	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-suosango	周央サンゴ	すおうさんご	org_kana	https://www.nijisanji.jp/talents/l/sango-suo	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ukivioleta	浮奇・ヴィオレタ	うきゔぃおれた	org_kana	https://www.nijisanji.jp/talents/l/uki-violeta	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-joerikiichi	ジョー・力一	じょーりきいち	org_kana	https://www.nijisanji.jp/talents/l/joe-rikiichi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-wataraihibari	渡会雲雀	わたらいひばり	org_kana	https://www.nijisanji.jp/talents/l/hibari-watarai	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sukoyakana	健屋花那	すこやかな	org_kana	https://www.nijisanji.jp/talents/l/kana-sukoya	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-debidebidebiru	でびでび・でびる	でびでびでびる	org_kana	https://www.nijisanji.jp/talents/l/debidebi-debiru	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ennaalouette	エナー・アールウェット	えなーあーるうぇっと	org_kana	https://www.nijisanji.jp/talents/l/enna-alouette	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hayamamarin	葉山舞鈴	はやままりん	org_kana	https://www.nijisanji.jp/talents/l/marin-hayama	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ratnapetit	ラトナ・プティ	らとなぷてぃ	org_kana	https://www.nijisanji.jp/talents/l/ratna-petit	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sisterclaire	シスター・クレア	しすたーくれあ	org_kana	https://www.nijisanji.jp/talents/l/sister-claire	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mashiromeme	ましろ爻	ましろめめ	org_kana	https://www.nijisanji.jp/talents/l/meme-mashiro	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yorumirena	夜見れな	よるみれな	org_kana	https://www.nijisanji.jp/talents/l/rena-yorumi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-makainoririmu	魔界ノりりむ	まかいのりりむ	org_kana	https://www.nijisanji.jp/talents/l/makaino-ririmu	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-rindoumikoto	竜胆尊	りんどうみこと	org_kana	https://www.nijisanji.jp/talents/l/mikoto-rindou	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-exalbio	エクス・アルビオ	えくすあるびお	org_kana	https://www.nijisanji.jp/talents/l/ex-albio	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hanabatakechaika	花畑チャイカ	はなばたけちゃいか	org_kana	https://www.nijisanji.jp/talents/l/chaika-hanabatake	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nagaokei	長尾景	ながおけい	org_kana	https://www.nijisanji.jp/talents/l/kei-nagao	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-takamiyarion	鷹宮リオン	たかみやりおん	org_kana	https://www.nijisanji.jp/talents/l/rion-takamiya	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-renzotto	レン ゾット	れんぞっと	org_kana	https://www.nijisanji.jp/talents/l/ren-zotto	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sonnybrisko	サニー・ブリスコー	さにーぶりすこー	org_kana	https://www.nijisanji.jp/talents/l/sonny-brisko	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-elirapendora	エリーラ ペンドラ	えりーらぺんどら	org_kana	https://www.nijisanji.jp/talents/l/elira-pendora	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-leosvincent	レオス・ヴィンセント	れおすゔぃんせんと	org_kana	https://www.nijisanji.jp/talents/l/leos-vincent	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-petragurin	ペトラ グリン	ぺとらぐりん	org_kana	https://www.nijisanji.jp/talents/l/petra-gurin	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-koyanagirou	小柳ロウ	こやなぎろう	org_kana	https://www.nijisanji.jp/talents/l/rou-koyanagi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shikinagiakira	四季凪アキラ	しきなぎあきら	org_kana	https://www.nijisanji.jp/talents/l/akira-shikinagi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-belmondbanderas	ベルモンド・バンデラス	べるもんどばんでらす	org_kana	https://www.nijisanji.jp/talents/l/belmond-banderas	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hoshirubesho	星導ショウ	ほしるべしょう	org_kana	https://www.nijisanji.jp/talents/l/sho-hoshirube	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-millieparfait	ミリー・パフェ	みりーぱふぇ	org_kana	https://www.nijisanji.jp/talents/l/millie-parfait	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hakasefuyuki	葉加瀬冬雪	はかせふゆき	org_kana	https://www.nijisanji.jp/talents/l/fuyuki-hakase	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mariamarionette	マリア マリオネット	まりあまりおねっと	org_kana	https://www.nijisanji.jp/talents/l/maria-marionette	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shioriharuri	栞葉るり	しおりはるり	org_kana	https://www.nijisanji.jp/talents/l/ruri-shioriha	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-finanaryugu	フィナーナ 竜宮	ふぃなーなりゅうぐう	org_kana	https://www.nijisanji.jp/talents/l/finana-ryugu	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-maimotokeisuke	舞元啓介	まいもとけいすけ	org_kana	https://www.nijisanji.jp/talents/l/keisuke-maimoto	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-lainpaterson	レイン・パターソン	れいんぱたーそん	org_kana	https://www.nijisanji.jp/talents/l/lain-paterson	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shirayukitomoe	白雪巴	しらゆきともえ	org_kana	https://www.nijisanji.jp/talents/l/tomoe-shirayuki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-uzukikou	卯月コウ	うづきこう	org_kana	https://www.nijisanji.jp/talents/l/kou-uzuki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-fuminotamaki	文野環	ふみのたまき	org_kana	https://www.nijisanji.jp/talents/l/tamaki-fumino	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ishigaminozomi	石神のぞみ	いしがみのぞみ	org_kana	https://www.nijisanji.jp/talents/l/nozomi-ishigami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-furakanato	風楽奏斗	ふうらかなと	org_kana	https://www.nijisanji.jp/talents/l/kanato-fura	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-seraphdazzlegarden	セラフ・ダズルガーデン	せらふだずるがーでん	org_kana	https://www.nijisanji.jp/talents/l/seraph-dazzlegarden	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yuhiriri	夕陽リリ	ゆうひりり	org_kana	https://www.nijisanji.jp/talents/l/riri-yuhi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hibachimana	緋八マナ	ひばちまな	org_kana	https://www.nijisanji.jp/talents/l/mana-hibachi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-inamirai	伊波ライ	いなみらい	org_kana	https://www.nijisanji.jp/talents/l/rai-inami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shellinburgundy	シェリン・バーガンディ	しぇりんばーがんでぃ	org_kana	https://www.nijisanji.jp/talents/l/shellin-burgundy	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-genzukitojiro	弦月藤士郎	げんづきとうじろう	org_kana	https://www.nijisanji.jp/talents/l/tojiro-genzuki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-saikiittetsu	佐伯イッテツ	さいきいってつ	org_kana	https://www.nijisanji.jp/talents/l/ittetsu-saiki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sophiavalentine	ソフィア・ヴァレンタイン	そふぃあゔぁれんたいん	org_kana	https://www.nijisanji.jp/talents/l/sophia-valentine	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shizukarin	静凛	しずかりん	org_kana	https://www.nijisanji.jp/talents/l/rin-shizuka	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-koshimizutoru	小清水透	こしみずとおる	org_kana	https://www.nijisanji.jp/talents/l/toru-koshimizu	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yumeoikakeru	夢追翔	ゆめおいかける	org_kana	https://www.nijisanji.jp/talents/l/kakeru-yumeoi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-murakumokagetsu	叢雲カゲツ	むらくもかげつ	org_kana	https://www.nijisanji.jp/talents/l/kagetsu-murakumo	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-usamirito	宇佐美リト	うさみりと	org_kana	https://www.nijisanji.jp/talents/l/rito-usami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-levielipha	レヴィ・エリファ	れゔぃえりふぁ	org_kana	https://www.nijisanji.jp/talents/l/levi-elipha	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-fushimigaku	伏見ガク	ふしみがく	org_kana	https://www.nijisanji.jp/talents/l/gaku-fushimi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-dola	ドーラ	どーら	org_kana	https://www.nijisanji.jp/talents/l/dola	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kaisei	魁星	かいせい	org_kana	https://www.nijisanji.jp/talents/l/kaisei	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-oliverevans	オリバー・エバンス	おりばーえばんす	org_kana	https://www.nijisanji.jp/talents/l/oliver-evans	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-scarleyonaguni	スカーレ ヨナグニ	すかーれよなぐに	org_kana	https://www.nijisanji.jp/talents/l/scarle-yonaguni	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-tamanoinana	珠乃井ナナ	たまのいなな	org_kana	https://www.nijisanji.jp/talents/l/nana-tamanoi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-igarashirika	五十嵐梨花	いがらしりか	org_kana	https://www.nijisanji.jp/talents/l/rika-igarashi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-akagiwen	赤城ウェン	あかぎうぇん	org_kana	https://www.nijisanji.jp/talents/l/wen-akagi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sakakiness	榊ネス	さかきねす	org_kana	https://www.nijisanji.jp/talents/l/ness-sakaki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shishidoakari	獅子堂あかり	ししどうあかり	org_kana	https://www.nijisanji.jp/talents/l/akari-shishido	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yuzukiroa	夢月ロア	ゆづきろあ	org_kana	https://www.nijisanji.jp/talents/l/roa-yuzuki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-morinakakazaki	森中花咲	もりなかかざき	org_kana	https://www.nijisanji.jp/talents/l/kazaki-morinaka	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yangnari	ヤン ナリ	やんなり	org_kana	https://www.nijisanji.jp/talents/l/yang-nari	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kitakojihisui	北小路ヒスイ	きたこうじひすい	org_kana	https://www.nijisanji.jp/talents/l/hisui-kitakoji	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-suzukimasaru	鈴木勝	すずきまさる	org_kana	https://www.nijisanji.jp/talents/l/masaru-suzuki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-pontonei	先斗寧	ぽんとねい	org_kana	https://www.nijisanji.jp/talents/l/nei-ponto	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-matsukaimao	魔使マオ	まつかいまお	org_kana	https://www.nijisanji.jp/talents/l/mao-matsukai	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-milankestrel	ミラン・ケストレル	みらんけすとれる	org_kana	https://www.nijisanji.jp/talents/l/milan-kestrel	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-vantacrowbringer	ベンタクロウ ブリンガー	べんたくろうぶりんがー	org_kana	https://www.nijisanji.jp/talents/l/vantacrow-bringer	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nanasesuzuna	七瀬すず菜	ななせすずな	org_kana	https://www.nijisanji.jp/talents/l/suzuna-nanase	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nagisatrout	渚トラウト	なぎさとらうと	org_kana	https://www.nijisanji.jp/talents/l/trout-nagisa	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ienagamugi	家長むぎ	いえながむぎ	org_kana	https://www.nijisanji.jp/talents/l/mugi-ienaga	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-saotomeberry	早乙女ベリー	さおとめべりー	org_kana	https://www.nijisanji.jp/talents/l/berry-saotome	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kuroishiba	黒井しば	くろいしば	org_kana	https://www.nijisanji.jp/talents/l/shiba-kuroi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kuramochimeruto	倉持めると	くらもちめると	org_kana	https://www.nijisanji.jp/talents/l/meruto-kuramochi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hayasesou	早瀬走	はやせそう	org_kana	https://www.nijisanji.jp/talents/l/sou-hayase	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yamagamikaruta	山神カルタ	やまがみかるた	org_kana	https://www.nijisanji.jp/talents/l/karuta-yamagami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kitamiyusei	北見遊征	きたみゆうせい	org_kana	https://www.nijisanji.jp/talents/l/yusei-kitami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-aiaamare	アイア アマレ	あいああまれ	org_kana	https://www.nijisanji.jp/talents/l/aia-amare	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sakuraritsuki	桜凛月	さくらりつき	org_kana	https://www.nijisanji.jp/talents/l/ritsuki-sakura	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hanamacchia	ハナ マキア	はなまきあ	org_kana	https://www.nijisanji.jp/talents/l/hana-macchia	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-fumi	フミ	ふみ	org_kana	https://www.nijisanji.jp/talents/l/fumi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sakayorisoma	酒寄颯馬	さかよりそうま	org_kana	https://www.nijisanji.jp/talents/l/soma-sakayori	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-umiseyotsuha	海妹四葉	うみせよつは	org_kana	https://www.nijisanji.jp/talents/l/yotsuha-umise	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kandashoichi	神田笑一	かんだしょういち	org_kana	https://www.nijisanji.jp/talents/l/shoichi-kanda	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kurusunatsume	来栖夏芽	くるすなつめ	org_kana	https://www.nijisanji.jp/talents/l/natsume-kurusu	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-doppiodropscythe	ドッピオ ドロップサイト	どっぴおどろっぷさいと	org_kana	https://www.nijisanji.jp/talents/l/doppio-dropscythe	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mononobealice	物述有栖	もののべありす	org_kana	https://www.nijisanji.jp/talents/l/alice-mononobe	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-luiscammy	ルイス・キャミー	るいすきゃみー	org_kana	https://www.nijisanji.jp/talents/l/luis-cammy	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kaburakiroco	鏑木ろこ	かぶらきろこ	org_kana	https://www.nijisanji.jp/talents/l/roco-kaburaki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shigariko	司賀りこ	しがりこ	org_kana	https://www.nijisanji.jp/talents/l/riko-shiga	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-eliconifer	エリー・コニファー	えりーこにふぁー	org_kana	https://www.nijisanji.jp/talents/l/eli-conifer	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ververmillion	ヴェール ヴァーミリオン	ゔぇーるゔぁーみりおん	org_kana	https://www.nijisanji.jp/talents/l/ver-vermillion	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yuqwilson	ユウ Q ウィルソン	ゆうきゅううぃるそん	org_kana	https://www.nijisanji.jp/talents/l/yu-q-wilson	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-emmaaugust	えま★おうがすと	えまおうがすと	org_kana	https://www.nijisanji.jp/talents/l/emma-august	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-seffyna	セフィナ	せふぃな	org_kana	https://www.nijisanji.jp/talents/l/seffyna	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-vezaliusbandage	ヴェザリウス バンデージ	ゔぇざりうすばんでーじ	org_kana	https://www.nijisanji.jp/talents/l/vezalius-bandage	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kaelixdebonair	ケイリクス・デボネア	けいりくすでぼねあ	org_kana	https://www.nijisanji.jp/talents/l/kaelix-debonair	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kisara	綺沙良	きさら	org_kana	https://www.nijisanji.jp/talents/l/kisara	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-akabaneyouko	赤羽葉子	あかばねようこ	org_kana	https://www.nijisanji.jp/talents/l/youko-akabane	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-amemorisayo	雨森小夜	あめもりさよ	org_kana	https://www.nijisanji.jp/talents/l/sayo-amemori	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yukishiromahiro	雪城眞尋	ゆきしろまひろ	org_kana	https://www.nijisanji.jp/talents/l/mahiro-yukishiro	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kiraratamako	雲母たまこ	きららたまこ	org_kana	https://www.nijisanji.jp/talents/l/tamako-kirara	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sorahoshikirame	空星きらめ	そらほしきらめ	org_kana	https://www.nijisanji.jp/talents/l/kirame-sorahoshi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hitotsubashiayato	一橋綾人	ひとつばしあやと	org_kana	https://www.nijisanji.jp/talents/l/ayato-hitotsubashi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-todokohaku	東堂コハク	とうどうこはく	org_kana	https://www.nijisanji.jp/talents/l/kohaku-todo	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yagurumarine	矢車りね	やぐるまりね	org_kana	https://www.nijisanji.jp/talents/l/rine-yaguruma	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-freodore	フリオドール	ふりおどーる	org_kana	https://www.nijisanji.jp/talents/l/freodore	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-gilzareniii	ギルザレンⅢ世	ぎるざれんさんせい	org_kana	https://www.nijisanji.jp/talents/l/gilzaren-iii	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mikogamikotone	御子神琴音	みこがみことね	org_kana	https://www.nijisanji.jp/talents/l/kotone-mikogami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-harusakiair	春崎エアル	はるさきえある	org_kana	https://www.nijisanji.jp/talents/l/air-harusaki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kataribetsumugu	語部紡	かたりべつむぐ	org_kana	https://www.nijisanji.jp/talents/l/tsumugu-kataribe	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ushimiichigo	宇志海いちご	うしみいちご	org_kana	https://www.nijisanji.jp/talents/l/ichigo-ushimi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-zealginjoka	ジール・ギンジョウカ	じーるぎんじょうか	org_kana	https://www.nijisanji.jp/talents/l/zeal-ginjoka	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-minsuha	ミン スゥーハ	みんすぅーは	org_kana	https://www.nijisanji.jp/talents/l/min-suha	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-aizonomanami	愛園愛美	あいぞのまなみ	org_kana	https://www.nijisanji.jp/talents/l/manami-aizono	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kaminagataiga	神永タイガ	かみながたいが	org_kana	https://www.nijisanji.jp/talents/l/taiga-kaminaga	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-tachitsutetoto	立伝都々	たちつてとと	org_kana	https://www.nijisanji.jp/talents/l/toto-tachitsute	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-seible	セイブル	せいぶる	org_kana	https://www.nijisanji.jp/talents/l/seible	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-reina	Rei7	れいな	org_kana	https://www.nijisanji.jp/talents/l/reina	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shibuyahajime	渋谷ハジメ	しぶやはじめ	org_kana	https://www.nijisanji.jp/talents/l/hajime-shibuya	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-itsukisakyo	五木左京	いつきさきょう	org_kana	https://www.nijisanji.jp/talents/l/sakyo-itsuki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-claudeclawmark	クロード クローマーク	くろーどくろーまーく	org_kana	https://www.nijisanji.jp/talents/l/claude-clawmark	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kozuemone	梢桃音	こずえもね	org_kana	https://www.nijisanji.jp/talents/l/mone-kozue	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yamadaryuichiro	山田龍一郎	やまだりゅういちろう	org_kana	https://www.nijisanji.jp/talents/l/ryuichiro-yamada	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-todorokikyoko	轟京子	とどろききょうこ	org_kana	https://www.nijisanji.jp/talents/l/kyoko-todoroki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-moira	モイラ	もいら	org_kana	https://www.nijisanji.jp/talents/l/moira	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nekoyashikimiku	猫屋敷美紅	ねこやしきみく	org_kana	https://www.nijisanji.jp/talents/l/miku-nekoyashiki	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-minamomadoka	水面まどか	みなもまどか	org_kana	https://www.nijisanji.jp/talents/l/madoka-minamo	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-amagasemuyu	天ヶ瀬むゆ	あまがせむゆ	org_kana	https://www.nijisanji.jp/talents/l/muyu-amagase	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shiroseisumi	城瀬いすみ	しろせいすみ	org_kana	https://www.nijisanji.jp/talents/l/isumi-shirose	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shirasaayane	白砂あやね	しらさあやね	org_kana	https://www.nijisanji.jp/talents/l/ayane-shirasa	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sumeragireo	皇れお	すめらぎれお	org_kana	https://www.nijisanji.jp/talents/l/reo-sumeragi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hayun	ハ ユン	はゆん	org_kana	https://www.nijisanji.jp/talents/l/ha-yun	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kadoumikaru	蝸堂みかる	かどうみかる	org_kana	https://www.nijisanji.jp/talents/l/mikaru-kadou	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hanakagotsubasa	花籠つばさ	はなかごつばさ	org_kana	https://www.nijisanji.jp/talents/l/tsubasa-hanakago	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-onotora	男虎	おのとら	org_kana	https://www.nijisanji.jp/talents/l/onotora	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-senriayumu	千凛あゆむ	せんりあゆむ	org_kana	https://www.nijisanji.jp/talents/l/ayumu-senri	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-togawanonoha	十河ののは	とがわののは	org_kana	https://www.nijisanji.jp/talents/l/nonoha-togawa	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-tsukaharadaichi	塚原大地	つかはらだいち	org_kana	https://www.nijisanji.jp/talents/l/daichi-tsukahara	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-leeroha	イ ロハ	いろは	org_kana	https://www.nijisanji.jp/talents/l/lee-roha	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shinomiyayuno	篠宮ゆの	しのみやゆの	org_kana	https://www.nijisanji.jp/talents/l/yuno-shinomiya	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-asukahina	飛鳥ひな	あすかひな	org_kana	https://www.nijisanji.jp/talents/l/hina-asuka	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-klaracharmwood	クララ チャームウッド	くららちゃーむうっど	org_kana	https://www.nijisanji.jp/talents/l/klara-charmwood	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-rayon	レヨン	れよん	org_kana	https://www.nijisanji.jp/talents/l/rayon	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yagyushino	夜牛詩乃	やぎゅうしの	org_kana	https://www.nijisanji.jp/talents/l/shino-yagyu	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sonagi	ソ ナギ	そなぎ	org_kana	https://www.nijisanji.jp/talents/l/so-nagi	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nasera	ナ セラ	なせら	org_kana	https://www.nijisanji.jp/talents/l/na-sera	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kokonamiiruka	小々波いるか	ここなみいるか	org_kana	https://www.nijisanji.jp/talents/l/iruka-kokonami	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-laylaalstroemeria	ライラ アルストロエメリア	らいらあるすとろえめりあ	org_kana	https://www.nijisanji.jp/talents/l/layla-alstroemeria	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-purinlalamode	ぷりん・らら・もーど	ぷりんららもーど	org_kana	https://www.nijisanji.jp/talents/l/purin-lala-mode	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-pomelopunch	ぽめろ・ぱんち	ぽめろぱんち	org_kana	https://www.nijisanji.jp/talents/l/pomelo-punch	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ryomabarrenwort	凉舞 バレンウォート	りょうまばれんうぉーと	org_kana	https://www.nijisanji.jp/talents/l/ryoma-barrenwort	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kurieita	九里詠太	くりえいた	org_kana	https://www.nijisanji.jp/talents/l/eita-kuri	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ohjiyu	オ ジユ	おじゆ	org_kana	https://www.nijisanji.jp/talents/l/oh-jiyu	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-etnacrimson	エトナ クリムソン	えとなくりむそん	org_kana	https://www.nijisanji.jp/talents/l/etna-crimson	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-akiraray	明楽レイ	あきられい	org_kana	https://www.nijisanji.jp/talents/l/akira-ray	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-gaon	ガオン	がおん	org_kana	https://www.nijisanji.jp/talents/l/gaon	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-raigalilei	ライ ガリレイ	らいがりれい	org_kana	https://www.nijisanji.jp/talents/l/rai-galilei	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-deremkado	デレム カド	でれむかど	org_kana	https://www.nijisanji.jp/talents/l/derem-kado	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ryuhari	リュ ハリ	りゅはり	org_kana	https://www.nijisanji.jp/talents/l/ryu-hari	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nagisaarcinia	ナギサ アルシニア	なぎさあるしにあ	org_kana	https://www.nijisanji.jp/talents/l/nagisa-arcinia	にじさんじ	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-eine	艾因	あいね	org_kana	https://www.nijisanji.jp/talents/l/eine	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-awu	哎小呜	あぅ	org_kana	https://www.nijisanji.jp/talents/l/awu	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ayumi	入福步	あゆみ	org_kana	https://www.nijisanji.jp/talents/l/ayumi	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-girimi	雾深	ぎりみ	org_kana	https://www.nijisanji.jp/talents/l/girimi	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kouichi	光一	こういち	org_kana	https://www.nijisanji.jp/talents/l/kouichi	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shaun	勺	しゃん	org_kana	https://www.nijisanji.jp/talents/l/shaun	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sybil	希维	しびる	org_kana	https://www.nijisanji.jp/talents/l/sybil	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-sui	岁己	すい	org_kana	https://www.nijisanji.jp/talents/l/sui	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-tabibito	度人	たびびと	org_kana	https://www.nijisanji.jp/talents/l/tabibito	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-chiyuu	千幽	ちゆう	org_kana	https://www.nijisanji.jp/talents/l/chiyuu	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nimue	妮慕	にむ	org_kana	https://www.nijisanji.jp/talents/l/nimue	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-hatsuse	初濑	はつせ	org_kana	https://www.nijisanji.jp/talents/l/hatsuse	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mizuki	弥月	みづき	org_kana	https://www.nijisanji.jp/talents/l/mizuki	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mayumi	勾檀	まゆみ	org_kana	https://www.nijisanji.jp/talents/l/mayumi	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mofu	犬绒	もふ	org_kana	https://www.nijisanji.jp/talents/l/mofu	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-momoka	桃代	ももか	org_kana	https://www.nijisanji.jp/talents/l/momoka	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-leo	莱恩	れお	org_kana	https://www.nijisanji.jp/talents/l/leo	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-waku	惑姫	わくひめ	org_kana	https://www.nijisanji.jp/talents/l/waku	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-aza	阿萨	あざ	org_kana	https://www.nijisanji.jp/talents/l/aza	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-ameki	雨纪	あめき	org_kana	https://www.nijisanji.jp/talents/l/ameki	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kioi	柚雨	きおい	org_kana	https://www.nijisanji.jp/talents/l/kioi	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-kiti	吉吉	きき	org_kana	https://www.nijisanji.jp/talents/l/kiti	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-saya	沙夜	さや	org_kana	https://www.nijisanji.jp/talents/l/saya	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-shiori	栞栞	しおり	org_kana	https://www.nijisanji.jp/talents/l/shiori	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-susu	点酥	すぅすぅ	org_kana	https://www.nijisanji.jp/talents/l/susu	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-tocci	桃星	とっち	org_kana	https://www.nijisanji.jp/talents/l/tocci	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nagisa	米汀	なぎさ	org_kana	https://www.nijisanji.jp/talents/l/nagisa	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nanami	七海	ななみ	org_kana	https://www.nijisanji.jp/talents/l/nanami	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-nori	能能	のり	org_kana	https://www.nijisanji.jp/talents/l/nori	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-pako	帕可	ぱこ	org_kana	https://www.nijisanji.jp/talents/l/pako	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-harei	花礼	はれい	org_kana	https://www.nijisanji.jp/talents/l/harei	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mit3uri	三理	みつり	org_kana	https://www.nijisanji.jp/talents/l/mit3uri	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-michiya	未知夜	みちや	org_kana	https://www.nijisanji.jp/talents/l/michiya	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-meme	沐毛	めめ	org_kana	https://www.nijisanji.jp/talents/l/meme	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-mei	命依	めい	org_kana	https://www.nijisanji.jp/talents/l/mei	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-melody	泽音	めろでぃ	org_kana	https://www.nijisanji.jp/talents/l/melody	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yagi	八木迪之	やぎみちゆき	org_kana	https://www.nijisanji.jp/talents/l/yagi	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yukie	雪绘	ゆきえ	org_kana	https://www.nijisanji.jp/talents/l/yukie	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-yukisyo	雪烛	ゆきしょ	org_kana	https://www.nijisanji.jp/talents/l/yukisyo	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+nijisanji-rhea	瑞娅	りあ	org_kana	https://www.nijisanji.jp/talents/l/rhea	VirtuaReal	https://www.nijisanji.jp/talents	active	2026-09-07	公式個別ページのふりがな。
+hololive-akirosenthal	アキ・ローゼンタール	あきろーぜんたーる	kana_surface	https://hololive.hololivepro.com/talents/aki-rosenthal/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-sakuramiko	さくらみこ	さくらみこ	kana_surface	https://hololive.hololivepro.com/talents/sakuramiko/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-ladarknesss	ラプラス・ダークネス	らぷらすだーくねす	kana_surface	https://hololive.hololivepro.com/talents/la-darknesss/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-ayundarisu	アユンダ・リス	あゆんだりす	kana_surface	https://hololive.hololivepro.com/talents/ayunda-risu/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-moonahoshinova	ムーナ・ホシノヴァ	むーなほしのゔぁ	kana_surface	https://hololive.hololivepro.com/talents/moona-hoshinova/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-airaniiofifteen	アイラニ・イオフィフティーン	あいらにいおふぃふてぃーん	kana_surface	https://hololive.hololivepro.com/talents/airani-iofifteen/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-kureijiollie	クレイジー・オリー	くれいじーおりー	kana_surface	https://hololive.hololivepro.com/talents/kureiji-ollie/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-anyamelfissa	アーニャ・メルフィッサ	あーにゃめるふぃっさ	kana_surface	https://hololive.hololivepro.com/talents/anya-melfissa/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-pavoliareine	パヴォリア・レイネ	ぱゔぉりあれいね	kana_surface	https://hololive.hololivepro.com/talents/pavolia-reine/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-vestiazeta	ベスティア・ゼータ	べすてぃあぜーた	kana_surface	https://hololive.hololivepro.com/talents/vestia-zeta/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-kaelakovalskia	カエラ・コヴァルスキア	かえらこゔぁるすきあ	kana_surface	https://hololive.hololivepro.com/talents/kaela-kovalskia/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-kobokanaeru	こぼ・かなえる	こぼかなえる	kana_surface	https://hololive.hololivepro.com/talents/kobo-kanaeru/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-ourokronii	オーロ・クロニー	おーろくろにー	kana_surface	https://hololive.hololivepro.com/talents/ouro-kronii/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-hakosbaelz	ハコス・ベールズ	はこすべーるず	kana_surface	https://hololive.hololivepro.com/talents/hakos-baelz/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-shiorinovella	シオリ・ノヴェラ	しおりのゔぇら	kana_surface	https://hololive.hololivepro.com/talents/shiori-novella/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-nerissaravencroft	ネリッサ・レイヴンクロフト	ねりっされいゔんくろふと	kana_surface	https://hololive.hololivepro.com/talents/nerissa-ravencroft/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-fuwawaabyssgard	フワワ・アビスガード	ふわわあびすがーど	kana_surface	https://hololive.hololivepro.com/talents/fuwawa-abyssgard/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-mococoabyssgard	モココ・アビスガード	もここあびすがーど	kana_surface	https://hololive.hololivepro.com/talents/mococo-abyssgard/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-elizabethrosebloodflame	エリザベス・ローズ・ブラッドフレイム	えりざべすろーずぶらっどふれいむ	kana_surface	https://hololive.hololivepro.com/talents/elizabeth-rose-bloodflame/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-gigimurin	ジジ・ムリン	じじむりん	kana_surface	https://hololive.hololivepro.com/talents/gigi-murin/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-ceciliaimmergreen	セシリア・イマーグリーン	せしりあいまーぐりーん	kana_surface	https://hololive.hololivepro.com/talents/cecilia-immergreen/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-raorapanthera	ラオーラ・パンテーラ	らおーらぱんてーら	kana_surface	https://hololive.hololivepro.com/talents/raora-panthera/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	表記自体がかなのみ。
+hololive-nakiriayame	百鬼あやめ	なきりあやめ	self_profile	https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg/about	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	チャンネル説明文『百鬼あやめ (なきり あやめ)というぞ』。
+hololive-yuzukichoco	癒月ちょこ	ゆづきちょこ	self_profile	https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg/about	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	チャンネル説明文『癒月ちょこ（ゆづきちょこ）と申します』。
+hololive-shishirobotan	獅白ぼたん	ししろぼたん	self_profile	https://www.youtube.com/watch?v=r2vb7Ibgk2M	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	本人チャンネル動画 r2vb7Ibgk2M タイトル『ししろぼたんです』での自己言及。
+hololive-robocosan	ロボ子さん	ろぼこさん	wikidata	https://www.wikidata.org/wiki/Q85327516	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-akaihaato	赤井はあと	あかいはあと	wikidata	https://www.wikidata.org/wiki/Q92181505	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-natsuiromatsuri	夏色まつり	なついろまつり	wikidata	https://www.wikidata.org/wiki/Q88387033	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-oozorasubaru	大空スバル	おおぞらすばる	wikidata	https://www.wikidata.org/wiki/Q95972569	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-azki	AZKi	あずき	wikidata	https://www.wikidata.org/wiki/Q116936972	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-ookamimio	大神ミオ	おおかみみお	wikipedia	https://ja.wikipedia.org/wiki/大神ミオ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-nekomataokayu	猫又おかゆ	ねこまたおかゆ	wikipedia	https://ja.wikipedia.org/wiki/猫又おかゆ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-inugamikorone	戌神ころね	いぬがみころね	wikipedia	https://ja.wikipedia.org/wiki/戌神ころね	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-shiranuiflare	不知火フレア	しらぬいふれあ	wikipedia	https://ja.wikipedia.org/wiki/不知火フレア	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-shiroganenoel	白銀ノエル	しろがねのえる	wikipedia	https://ja.wikipedia.org/wiki/白銀ノエル	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-tsunomakiwatame	角巻わため	つのまきわため	wikipedia	https://ja.wikipedia.org/wiki/角巻わため	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-tokoyamitowa	常闇トワ	とこやみとわ	wikipedia	https://ja.wikipedia.org/wiki/常闇トワ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-himemoriluna	姫森ルーナ	ひめもりるーな	wikipedia	https://ja.wikipedia.org/wiki/姫森ルーナ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-yukihanalamy	雪花ラミィ	ゆきはならみぃ	wikipedia	https://ja.wikipedia.org/wiki/雪花ラミィ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-momosuzunene	桃鈴ねね	ももすずねね	wikipedia	https://ja.wikipedia.org/wiki/桃鈴ねね	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-omarupolka	尾丸ポルカ	おまるぽるか	wikipedia	https://ja.wikipedia.org/wiki/尾丸ポルカ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-takanelui	鷹嶺ルイ	たかねるい	wikipedia	https://ja.wikipedia.org/wiki/鷹嶺ルイ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-hakuikoyori	博衣こより	はくいこより	wikipedia	https://ja.wikipedia.org/wiki/博衣こより	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-kazamairoha	風真いろは	かざまいろは	wikidata	https://www.wikidata.org/wiki/Q109743004	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-moricalliope	森カリオペ	もりかりおぺ	wikipedia	https://ja.wikipedia.org/wiki/森カリオペ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-takanashikiara	小鳥遊キアラ	たかなしきあら	wikidata	https://www.wikidata.org/wiki/Q105772701	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-ninomaeinanis	一伊那尓栖	にのまえいなにす	wikipedia	https://ja.wikipedia.org/wiki/一伊那尓栖	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-irys	IRyS	あいりす	wikidata	https://www.wikidata.org/wiki/Q108220511	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-kosekibijou	古石ビジュー	こせきびじゅー	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-otonosekanade	音乃瀬奏	おとのせかなで	wikipedia	https://ja.wikipedia.org/wiki/音乃瀬奏	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-ichijouririka	一条莉々華	いちじょうりりか	wikipedia	https://ja.wikipedia.org/wiki/一条莉々華	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-juufuuteiraden	儒烏風亭らでん	じゅうふうていらでん	wikidata	https://www.wikidata.org/wiki/Q123417421	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikidata の「かな表記」（P1814）。
+hololive-todorokihajime	轟はじめ	とどろきはじめ	wikipedia	https://ja.wikipedia.org/wiki/轟はじめ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-isakiriona	響咲リオナ	いさきりおな	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-koganeiniko	虎金妃笑虎	こがねいにこ	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-rindochihaya	輪堂千速	りんどうちはや	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-kikiraravivi	綺々羅々ヴィヴィ	ききららゔぃゔぃ	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-izukimichiru	井月みちる	いづきみちる	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-hanazonosayaka	花園さやか	はなぞのさやか	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+hololive-kazeshiroyuki	風白ゆき	かぜしろゆき	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	Wikipedia 記事本文の読み（出典脚注あり）。
+holostars-astelleda	アステル・レダ	あすてるれだ	kana_surface	https://holostars.hololivepro.com/talent/astel-leda/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+holostars-regisaltare	リージス・アルテア	りーじすあるてあ	kana_surface	https://holostars.hololivepro.com/talent/regis-altare/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+holostars-axelsyrios	アクセル・シリオス	あくせるしりおす	kana_surface	https://holostars.hololivepro.com/talent/axel-syrios/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+holostars-gavisbettel	ガビス・ベッテル	がびすべってる	kana_surface	https://holostars.hololivepro.com/talent/bettel/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+holostars-jurardtrexford	ジュラルド・ティー・レクスフォード	じゅらるどてぃーれくすふぉーど	kana_surface	https://holostars.hololivepro.com/talent/jurard-t-rexford/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+holostars-goldbullet	ゴールドブレット	ごーるどぶれっと	kana_surface	https://holostars.hololivepro.com/talent/goldbullet/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+holostars-octavio	オクタビオ	おくたびお	kana_surface	https://holostars.hololivepro.com/talent/octavio/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+holostars-crimzonruze	クリムゾン・ルーズ	くりむぞんるーず	kana_surface	https://holostars.hololivepro.com/talent/crimzon-ruze/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	表記自体がかなのみ。
+hololive-moonahoshinova	Moona Hoshinova	むーなほしのゔぁ	org_kana	https://hololive.hololivepro.com/talents/moona-hoshinova/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-airaniiofifteen	Airani Iofifteen	あいらにいおふぃふてぃーん	org_kana	https://hololive.hololivepro.com/talents/airani-iofifteen/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-kureijiollie	Kureiji Ollie	くれいじーおりー	org_kana	https://hololive.hololivepro.com/talents/kureiji-ollie/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-anyamelfissa	Anya Melfissa	あーにゃめるふぃっさ	org_kana	https://hololive.hololivepro.com/talents/anya-melfissa/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-pavoliareine	Pavolia Reine	ぱゔぉりあれいね	org_kana	https://hololive.hololivepro.com/talents/pavolia-reine/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-vestiazeta	Vestia Zeta	べすてぃあぜーた	org_kana	https://hololive.hololivepro.com/talents/vestia-zeta/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-kaelakovalskia	Kaela Kovalskia	かえらこゔぁるすきあ	org_kana	https://hololive.hololivepro.com/talents/kaela-kovalskia/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-kobokanaeru	Kobo Kanaeru	こぼかなえる	org_kana	https://hololive.hololivepro.com/talents/kobo-kanaeru/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-takanashikiara	Takanashi Kiara	たかなしきあら	wikidata	https://www.wikidata.org/wiki/Q105772701	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-ninomaeinanis	Ninomae Ina'nis	にのまえいなにす	wikipedia	https://ja.wikipedia.org/wiki/一伊那尓栖	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-ourokronii	Ouro Kronii	おーろくろにー	org_kana	https://hololive.hololivepro.com/talents/ouro-kronii/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-hakosbaelz	Hakos Baelz	はこすべーるず	org_kana	https://hololive.hololivepro.com/talents/hakos-baelz/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-shiorinovella	Shiori Novella	しおりのゔぇら	org_kana	https://hololive.hololivepro.com/talents/shiori-novella/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-kosekibijou	Koseki Bijou	こせきびじゅー	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-nerissaravencroft	Nerissa Ravencroft	ねりっされいゔんくろふと	org_kana	https://hololive.hololivepro.com/talents/nerissa-ravencroft/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-fuwawaabyssgard	Fuwawa Abyssgard	ふわわあびすがーど	org_kana	https://hololive.hololivepro.com/talents/fuwawa-abyssgard/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-mococoabyssgard	Mococo Abyssgard	もここあびすがーど	org_kana	https://hololive.hololivepro.com/talents/mococo-abyssgard/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-elizabethrosebloodflame	Elizabeth Rose Bloodflame	えりざべすろーずぶらっどふれいむ	org_kana	https://hololive.hololivepro.com/talents/elizabeth-rose-bloodflame/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-gigimurin	Gigi Murin	じじむりん	org_kana	https://hololive.hololivepro.com/talents/gigi-murin/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-ceciliaimmergreen	Cecilia Immergreen	せしりあいまーぐりーん	org_kana	https://hololive.hololivepro.com/talents/cecilia-immergreen/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-raorapanthera	Raora Panthera	らおーらぱんてーら	org_kana	https://hololive.hololivepro.com/talents/raora-panthera/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-ichijouririka	Ichijou Ririka	いちじょうりりか	wikipedia	https://ja.wikipedia.org/wiki/一条莉々華	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-juufuuteiraden	Juufuutei Raden	じゅうふうていらでん	wikidata	https://www.wikidata.org/wiki/Q123417421	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-todorokihajime	Todoroki Hajime	とどろきはじめ	wikipedia	https://ja.wikipedia.org/wiki/轟はじめ	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-isakiriona	Isaki Riona	いさきりおな	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-koganeiniko	Koganei Niko	こがねいにこ	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-rindochihaya	Rindo Chihaya	りんどうちはや	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+hololive-kikiraravivi	Kikirara Vivi	ききららゔぃゔぃ	wikipedia	https://ja.wikipedia.org/wiki/FLOW_GLOW	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-09	公式一覧の英字表記。
+nijisanji-voxakuma	Vox Akuma	ゔぉっくすあくま	org_kana	https://www.nijisanji.jp/talents/l/vox-akuma	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-lucakaneshiro	Luca Kaneshiro	るかかねしろ	org_kana	https://www.nijisanji.jp/talents/l/luca-kaneshiro	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-shuyamino	Shu Yamino	やみのしゅう	org_kana	https://www.nijisanji.jp/talents/l/shu-yamino	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-albanknox	Alban Knox	あるばーんのっくす	org_kana	https://www.nijisanji.jp/talents/l/alban-knox	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-melocokyoran	Meloco Kyoran	きょうらんめろこ	org_kana	https://www.nijisanji.jp/talents/l/meloco-kyoran	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-ukivioleta	Uki Violeta	うきゔぃおれた	org_kana	https://www.nijisanji.jp/talents/l/uki-violeta	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-ennaalouette	Enna Alouette	えなーあーるうぇっと	org_kana	https://www.nijisanji.jp/talents/l/enna-alouette	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-renzotto	Ren Zotto	れんぞっと	org_kana	https://www.nijisanji.jp/talents/l/ren-zotto	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-sonnybrisko	Sonny Brisko	さにーぶりすこー	org_kana	https://www.nijisanji.jp/talents/l/sonny-brisko	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-elirapendora	Elira Pendora	えりーらぺんどら	org_kana	https://www.nijisanji.jp/talents/l/elira-pendora	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-petragurin	Petra Gurin	ぺとらぐりん	org_kana	https://www.nijisanji.jp/talents/l/petra-gurin	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-millieparfait	Millie Parfait	みりーぱふぇ	org_kana	https://www.nijisanji.jp/talents/l/millie-parfait	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-mariamarionette	Maria Marionette	まりあまりおねっと	org_kana	https://www.nijisanji.jp/talents/l/maria-marionette	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-finanaryugu	Finana Ryugu	ふぃなーなりゅうぐう	org_kana	https://www.nijisanji.jp/talents/l/finana-ryugu	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-scarleyonaguni	Scarle Yonaguni	すかーれよなぐに	org_kana	https://www.nijisanji.jp/talents/l/scarle-yonaguni	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-vantacrowbringer	Vantacrow Bringer	べんたくろうぶりんがー	org_kana	https://www.nijisanji.jp/talents/l/vantacrow-bringer	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-aiaamare	Aia Amare	あいああまれ	org_kana	https://www.nijisanji.jp/talents/l/aia-amare	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-doppiodropscythe	Doppio Dropscythe	どっぴおどろっぷさいと	org_kana	https://www.nijisanji.jp/talents/l/doppio-dropscythe	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-ververmillion	Ver Vermillion	ゔぇーるゔぁーみりおん	org_kana	https://www.nijisanji.jp/talents/l/ver-vermillion	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-yuqwilson	Yu Q. Wilson	ゆうきゅううぃるそん	org_kana	https://www.nijisanji.jp/talents/l/yu-q-wilson	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-vezaliusbandage	Vezalius Bandage	ゔぇざりうすばんでーじ	org_kana	https://www.nijisanji.jp/talents/l/vezalius-bandage	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-kaelixdebonair	Kaelix Debonair	けいりくすでぼねあ	org_kana	https://www.nijisanji.jp/talents/l/kaelix-debonair	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-freodore	Freodore	ふりおどーる	org_kana	https://www.nijisanji.jp/talents/l/freodore	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-zealginjoka	Zeal Ginjoka	じーるぎんじょうか	org_kana	https://www.nijisanji.jp/talents/l/zeal-ginjoka	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-seible	Seible	せいぶる	org_kana	https://www.nijisanji.jp/talents/l/seible	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-claudeclawmark	Claude Clawmark	くろーどくろーまーく	org_kana	https://www.nijisanji.jp/talents/l/claude-clawmark	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-klaracharmwood	Klara Charmwood	くららちゃーむうっど	org_kana	https://www.nijisanji.jp/talents/l/klara-charmwood	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+nijisanji-ryomabarrenwort	Ryoma Barrenwort	りょうまばれんうぉーと	org_kana	https://www.nijisanji.jp/talents/l/ryoma-barrenwort	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
+hololive-mizumiyasu	水宮枢	すずみやすう	org_romaji	https://hololive.hololivepro.com/talents/mizumiya-su/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	公式サイトのローマ字表記から確定。
+holostars-kanadeizuru	奏手イヅル	かなでいづる	wikidata	https://www.wikidata.org/wiki/Q109852033	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
+holostars-yukokuroberu	夕刻ロベル	ゆうこくろべる	wikidata	https://www.wikidata.org/wiki/Q109850789	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
+holostars-aragamioga	荒咬オウガ	あらがみおうが	wikidata	https://www.wikidata.org/wiki/Q109984232	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
+holostars-yatogamifuma	夜十神封魔	やとがみふうま	wikidata	https://www.wikidata.org/wiki/Q111590467	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
+holostars-utsugiuyu	羽継烏有	うつぎうゆう	wikidata	https://www.wikidata.org/wiki/Q111590468	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
+holostars-banzoinhakka	万象院ハッカ	ばんぞういんはっか	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション#ホロスターズEnglish	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
+holostars-josuijishinri	定水寺シンリ	じょうすいじしんり	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション#ホロスターズEnglish	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
+holostars-machinaxflayon	マキナ・X・フレオン	まきなえくすふれおん	org_romaji	https://holostars.hololivepro.com/talent/flayon/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	公式サイトのローマ字表記から確定。

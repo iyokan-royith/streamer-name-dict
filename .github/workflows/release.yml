@@ -1,0 +1,39 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: pytest
+        run: python -m pytest
+
+      - name: build.py（dist/ の4形式を生成。validate が門番）
+        run: python build.py
+
+      - name: Create GitHub Release と dist/ の添付
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/ms-ime.txt
+            dist/google-mozc.txt
+            dist/atok.txt
+            dist/skk.txt
+          generate_release_notes: true

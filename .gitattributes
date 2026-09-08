@@ -1,0 +1,4 @@
+# UTF-16 のゴールデンファイルは改行コードの自動変換対象にしない
+# （git の autocrlf 変換が UTF-16 バイト列を壊すのを防ぐ）
+tests/fixtures/golden/*.bin -text binary
+data/entries.tsv -text

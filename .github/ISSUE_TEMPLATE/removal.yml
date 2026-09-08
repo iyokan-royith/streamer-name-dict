@@ -1,0 +1,44 @@
+name: 削除申請
+description: ご自身または所属組織の表記をこの辞書から削除してほしい
+title: "[削除] "
+labels:
+  - removal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        本人または所属組織の方からの申請であれば、理由を問わず無条件・即時で対応します。
+        「載せてほしくないから」で十分です。詳しい事情を書いていただく必要はありません。
+
+  - type: input
+    id: target
+    attributes:
+      label: 対象（person_id または表記）
+      description: 削除してほしい行の `person_id`（`data/entries.tsv` の1列目）または表記（活動名）
+      placeholder: 例）zeta-k4sen または k4sen
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role
+    attributes:
+      label: 申請者の立場
+      options:
+        - 本人
+        - 所属組織
+        - その他
+    validations:
+      required: true
+
+  - type: textarea
+    id: identity_check
+    attributes:
+      label: 本人性の確認手段
+      description: |
+        以下のいずれかで確認できると助かります（過剰な本人確認は求めません）。
+        - 対象の公式チャンネル・公式 X 等でこの Issue への言及
+        - 所属組織からの連絡（組織の公式窓口・公式アカウント経由）
+        「その他」の場合は、確認できる方法があれば書いてください（無くても申請自体は受け付けます）。
+      placeholder: 例）自分の公式 X（@xxxxx）でこの Issue の URL をポストしました
+    validations:
+      required: false

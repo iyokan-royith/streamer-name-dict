@@ -1,0 +1,12 @@
+# 生成物（Release で dist/ を添付する運用。リポジトリには入れない）
+/dist/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# venv はリポジトリ外（~/streamer-name-dict-venv）に置く方針だが、
+# 誤って中に作られた場合の保険
+/.venv/
+/venv/

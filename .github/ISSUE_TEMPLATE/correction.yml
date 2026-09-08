@@ -1,0 +1,51 @@
+name: 訂正申請
+description: 既に載っている表記・読みが間違っている（変わった）ので直してほしい
+title: "[訂正] "
+labels:
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        愛称・略称（`data/aliases.tsv` に載っているもの）の訂正・削除は
+        [愛称・略称の追加希望](../../issues/new?template=alias-addition.yml) または
+        [削除申請](../../issues/new?template=removal.yml) を使ってください。このテンプレは
+        正式名（`data/entries.tsv`）の読み・表記の訂正専用です。
+
+  - type: input
+    id: target
+    attributes:
+      label: 対象（person_id または表記）
+      description: 訂正してほしい行の `person_id`（`data/entries.tsv` の1列目）または表記（活動名）
+      placeholder: 例）zeta-k4sen または k4sen
+    validations:
+      required: true
+
+  - type: input
+    id: correct_reading
+    attributes:
+      label: 正しい読み（ひらがな）
+      placeholder: 例）かせん
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: 出典（必須）
+      description: |
+        正しい読みが確認できるものであれば何でも構いません（厳格な一次資料は不要です）。
+        本人の発言・X の bio の表記・公式ページなど、URL の形で示せるものを入れてください。
+        ご本人からの申請で URL を示せない場合は、「本人です。この申請内容自体を出典としてください」
+        のように書いていただければ、この Issue 本文自体を出典として扱います。
+      placeholder: 例）https://www.youtube.com/@k4sen または「本人です。この申請を出典としてください」
+    validations:
+      required: true
+
+  - type: textarea
+    id: note
+    attributes:
+      label: 補足（任意）
+      description: 何が・どう変わったか等
+    validations:
+      required: false

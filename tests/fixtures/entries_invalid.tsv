@@ -1,0 +1,7 @@
+person_id	surface	reading	reading_source	source_url	org	org_source_url	status	added	note
+a-person	人物A	じんぶつえー	pr_manual				active	2026-09-07	
+b-person	人物B	ジンブツビー	pr_manual	https://example.com/b			active	2026-09-07	
+c-person	人物C	じんぶつしー	guess	https://example.com/c			active	2026-09-07	
+d-person	人物D	じんぶつでぃー	pr_manual	https://example.com/d			pending	2026-09-07	
+e-person	人物E	じんぶついー	pr_manual	https://example.com/e1			active	2026-09-07	
+e-person	人物E	じんぶついー	pr_manual	https://example.com/e2			active	2026-09-08	

@@ -1,0 +1,54 @@
+name: 追加希望（正式名）
+description: まだ載っていない配信者の正式名（活動名）を追加してほしい
+title: "[追加] "
+labels:
+  - addition
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ご自身で PR を作れる方は、Issue でなく直接 PR を送っていただいても構いません
+        （[CONTRIBUTING.md](../../CONTRIBUTING.md) 参照）。
+
+        **愛称・略称**（正式名とは別に呼ばれている呼び方）を追加したい場合は、こちらでなく
+        [愛称・略称の追加希望](../../issues/new?template=alias-addition.yml) を使ってください
+        （そちらは出典不要です）。
+
+  - type: input
+    id: surface
+    attributes:
+      label: 表記（活動名・正式名）
+      description: 出典に書かれている通りの表記（大文字・小文字も含めて）
+      placeholder: 例）k4sen
+    validations:
+      required: true
+
+  - type: input
+    id: reading
+    attributes:
+      label: 読み（ひらがな）
+      placeholder: 例）かせん
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: 出典（必須）
+      description: |
+        読みが確認できるものであれば何でも構いません（厳格な一次資料は不要です）。
+        本人の発言・本人チャンネル・X の bio の表記・所属組織の公式ページなど、URL の形で
+        示せるものを入れてください。ご本人からの申請で URL を示せない場合は、「本人です。
+        この申請内容自体を出典としてください」のように書いていただければ、この Issue 本文
+        自体を出典として扱います。
+      placeholder: 例）https://www.youtube.com/@k4sen または「本人です。この申請を出典としてください」
+    validations:
+      required: true
+
+  - type: input
+    id: org
+    attributes:
+      label: 所属（個人勢なら空欄でよい）
+      placeholder: 例）ZETA DIVISION
+    validations:
+      required: false

@@ -1,0 +1,3 @@
+person_id	surface	reading	reading_source	source_url	org	org_source_url	status	added	note
+zeta-k4sen	K4SEN	かせん	self_channel_title	https://www.youtube.com/channel/UChUjERVG8eKEAJSCef-tTmg	ZETA DIVISION	https://zetadivision.com/members	active	2026-09-07	
+retired-person	引退太郎	いんたいたろう	pr_manual	https://example.com/retired	個人勢		removed	2026-09-07	削除申請により除外

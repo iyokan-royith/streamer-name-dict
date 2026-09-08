@@ -1,0 +1,63 @@
+name: 追加希望（愛称・略称）
+description: 正式名とは別に呼ばれている愛称・略称、または表記は同じで読みだけ別の呼び方を追加してほしい
+title: "[愛称追加] "
+labels:
+  - addition
+  - alias
+body:
+  - type: markdown
+    attributes:
+      value: |
+        `data/aliases.tsv` への追加です。**出典は不要**です（愛称・表記揺れがどこまで確認できるかは
+        難しいため求めません）。正式な読みではなく、通称として辞書に入れるものです。
+
+        まだ載っていない配信者そのもの（正式名）を追加したい場合は、こちらでなく
+        [追加希望（正式名）](../../issues/new?template=addition.yml) を使ってください
+        （そちらは出典必須です）。
+
+  - type: input
+    id: target
+    attributes:
+      label: 対象（person_id または正式表記）
+      description: 愛称を追加したい人物の `person_id`（`data/entries.tsv` の1列目）または正式な表記（活動名）
+      placeholder: 例）hololive-yuzukichoco または 癒月ちょこ
+    validations:
+      required: true
+
+  - type: input
+    id: alias_surface
+    attributes:
+      label: 愛称・略称の表記
+      description: kind が「別読み（reading_variant）」の場合は正式表記と同じものを入れてください
+      placeholder: 例）ちょこ先
+    validations:
+      required: true
+
+  - type: input
+    id: reading
+    attributes:
+      label: 読み（ひらがな）
+      placeholder: 例）ちょこせん
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 種別
+      description: |
+        愛称（nickname）＝表記が正式名と異なる呼び方 ／
+        別読み（reading_variant）＝表記は正式名と同じで読みだけ別のもの
+      options:
+        - 愛称（表記が正式名と異なる）
+        - 別読み（表記は正式名と同じで読みだけ別）
+    validations:
+      required: true
+
+  - type: textarea
+    id: note
+    attributes:
+      label: 補足（任意）
+      description: どこでそう呼ばれているか等（出典は不要ですが、あれば助かります）
+    validations:
+      required: false
