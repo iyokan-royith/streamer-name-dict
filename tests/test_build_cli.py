@@ -17,7 +17,7 @@ def test_build_generates_four_formats(tmp_path):
     out_dir = tmp_path / "dist"
     result = run_build(FIXTURES / "entries_valid.tsv", out_dir)
     assert result.returncode == 0, result.stderr
-    for filename in ["ms-ime.txt", "google-mozc.txt", "atok.txt", "skk.txt"]:
+    for filename in ["streamer_dict_msime.txt", "streamer_dict_google_mozc.txt", "streamer_dict_atok.txt", "streamer_dict_skk.txt"]:
         assert (out_dir / filename).exists()
 
 
@@ -26,11 +26,11 @@ def test_build_excludes_removed_status(tmp_path):
     result = run_build(FIXTURES / "entries_with_removed.tsv", out_dir)
     assert result.returncode == 0, result.stderr
 
-    google_text = (out_dir / "google-mozc.txt").read_text(encoding="utf-8")
+    google_text = (out_dir / "streamer_dict_google_mozc.txt").read_text(encoding="utf-8")
     assert "K4SEN" in google_text
     assert "引退太郎" not in google_text
 
-    skk_text = (out_dir / "skk.txt").read_text(encoding="utf-8")
+    skk_text = (out_dir / "streamer_dict_skk.txt").read_text(encoding="utf-8")
     assert "K4SEN" in skk_text
     assert "引退太郎" not in skk_text
 
@@ -49,7 +49,7 @@ def test_build_on_real_data_passes(tmp_path):
     out_dir = tmp_path / "dist"
     result = run_build(ROOT / "data" / "entries.tsv", out_dir)
     assert result.returncode == 0, result.stderr
-    assert (out_dir / "ms-ime.txt").exists()
+    assert (out_dir / "streamer_dict_msime.txt").exists()
 
 
 def test_build_with_no_aliases_file_is_zero_alias(tmp_path):
@@ -66,17 +66,17 @@ def test_build_merges_aliases_into_all_formats(tmp_path):
     assert result.returncode == 0, result.stderr
     assert "収録 4 件（正式 2・別名 2）" in result.stdout
 
-    google_text = (out_dir / "google-mozc.txt").read_text(encoding="utf-8")
+    google_text = (out_dir / "streamer_dict_google_mozc.txt").read_text(encoding="utf-8")
     assert "ケイフォー" in google_text
     assert "けいふぉー" in google_text
 
-    skk_text = (out_dir / "skk.txt").read_text(encoding="utf-8")
+    skk_text = (out_dir / "streamer_dict_skk.txt").read_text(encoding="utf-8")
     assert "ケイフォー" in skk_text
 
-    ms_ime_text = (out_dir / "ms-ime.txt").read_bytes().decode("utf-16")
+    ms_ime_text = (out_dir / "streamer_dict_msime.txt").read_bytes().decode("utf-16")
     assert "ケイフォー" in ms_ime_text
 
-    atok_text = (out_dir / "atok.txt").read_bytes().decode("utf-16")
+    atok_text = (out_dir / "streamer_dict_atok.txt").read_bytes().decode("utf-16")
     assert "ケイフォー" in atok_text
 
 
@@ -91,7 +91,7 @@ def test_build_excludes_alias_of_removed_person(tmp_path):
     assert result.returncode == 0, result.stderr
     assert "収録 2 件（正式 1・別名 1）" in result.stdout
 
-    google_text = (out_dir / "google-mozc.txt").read_text(encoding="utf-8")
+    google_text = (out_dir / "streamer_dict_google_mozc.txt").read_text(encoding="utf-8")
     assert "ケイフォー" in google_text
     assert "いんたい" not in google_text
 

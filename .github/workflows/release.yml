@@ -32,8 +32,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            dist/ms-ime.txt
-            dist/google-mozc.txt
-            dist/atok.txt
-            dist/skk.txt
+            dist/streamer_dict_msime.txt
+            dist/streamer_dict_google_mozc.txt
+            dist/streamer_dict_atok.txt
+            dist/streamer_dict_skk.txt
           generate_release_notes: true
