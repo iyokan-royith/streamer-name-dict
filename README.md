@@ -90,14 +90,15 @@ PR か Issue でお知らせください。
 ```bash
 python3 -m venv .venv   # または任意の venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements-dev.txt   # 実行時依存のみでよければ requirements.txt
 python -m pytest
+ruff check .
 python build.py
 ```
 
 - `lib/entries.py`: `data/entries.tsv` の読み込みとスキーマ定義
 - `lib/aliases.py`: `data/aliases.tsv`（愛称・表記揺れ）の読み込みとスキーマ定義
-- `lib/validate.py`: 入力検証（必須列・reading のひらがな判定・`reading_source`/`status`/`kind` の定義内チェック・重複検出・aliases の person_id 存在確認）
+- `lib/validate.py`: 入力検証（必須列・reading のひらがな判定・`reading_source`/`status`/`kind` の定義内チェック・重複検出・aliases の person_id 存在確認）。`python -m lib.validate data/entries.tsv data/aliases.tsv` で単体実行可能
 - `lib/formats.py`: 各 IME 形式の生成
 - `lib/promote.py`: メンテナが手元でまとめた TSV → entries のマージロジック（メンテナ用・通常は使いません。純関数。CLI は `promote.py`）
 - `build.py`: CLI（検証 → 生成。entries と aliases を合わせて出力。検証エラーがあれば非ゼロ終了・`dist/` は作らない）

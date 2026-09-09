@@ -1,0 +1,17 @@
+[tool.ruff]
+target-version = "py311"
+
+[tool.ruff.lint]
+# 構文チェック（CI の lint ジョブ）用の最小セット。
+# E/W: pycodestyle・F: pyflakes（未定義名・未使用 import 等）・UP: pyupgrade・
+# B: flake8-bugbear（バグになりがちな書き方）・SIM: flake8-simplify・RUF: ruff 固有
+select = ["E", "W", "F", "UP", "B", "SIM", "RUF"]
+ignore = [
+    "E501",   # 行長。日本語のエラーメッセージ・コメントで既定 88 桁をすぐ超えるため見ない
+    "RUF001", # 文字列中の全角記号（例: （）／＝）を「曖昧」として警告する。日本語コメント/メッセージでは正常な表記
+    "RUF002", # 同上（docstring）
+    "RUF003", # 同上（コメント）
+    "RUF005", # list 連結を [*a, b] 形式のアンパックへ置き換える提案。既存コードに合わせて見ない
+    "RUF100", # 未使用 noqa の検出。promote.py の `# noqa: E402` は将来 E402 を有効化する可能性に備えた保険的な記述で、
+              # 現状の select では E402 が発火しないため「未使用」と出るが、コード側は直さず本ルールごと見ない
+]
