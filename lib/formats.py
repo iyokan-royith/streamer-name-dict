@@ -93,8 +93,8 @@ def generate_skk(rows: list[EntryRow]) -> bytes:
 
 
 FORMAT_GENERATORS = {
-    "ms-ime.txt": generate_ms_ime,
-    "google-mozc.txt": generate_google,
-    "atok.txt": generate_atok,
-    "skk.txt": generate_skk,
+    "streamer_dict_msime.txt": generate_ms_ime,
+    "streamer_dict_google_mozc.txt": generate_google,
+    "streamer_dict_atok.txt": generate_atok,
+    "streamer_dict_skk.txt": generate_skk,
 }

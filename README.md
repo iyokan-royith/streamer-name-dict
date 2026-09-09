@@ -42,10 +42,10 @@
 
 | IME | ファイル | 取り込み手順（概要） |
 |---|---|---|
-| Microsoft IME | `ms-ime.txt` | 「Microsoft IME ユーザー辞書ツール」→ ツール → テキストファイルからの登録 → `ms-ime.txt` を選択 |
-| Google 日本語入力 / Mozc | `google-mozc.txt` | 「辞書ツール」→ 管理 → 新規辞書にインポート → `google-mozc.txt` を選択（文字コード UTF-8） |
-| ATOK | `atok.txt` | 「ATOK Pad」または「単語登録」→ 単語一括登録 → `atok.txt` を選択 |
-| SKK | `skk.txt` | 個人辞書 or `~/.skk-jisyo-streamer` 等に配置し、`skk-search-prog-list` や `skk-jisyo-code` の設定で読み込む |
+| Microsoft IME | `streamer_dict_msime.txt` | 「Microsoft IME ユーザー辞書ツール」→ ツール → テキストファイルからの登録 → `streamer_dict_msime.txt` を選択 |
+| Google 日本語入力 / Mozc | `streamer_dict_google_mozc.txt` | 「辞書ツール」→ 管理 → 新規辞書にインポート → `streamer_dict_google_mozc.txt` を選択（文字コード UTF-8） |
+| ATOK | `streamer_dict_atok.txt` | 「ATOK Pad」または「単語登録」→ 単語一括登録 → `streamer_dict_atok.txt` を選択 |
+| SKK | `streamer_dict_skk.txt` | 個人辞書 or `~/.skk-jisyo-streamer` 等に配置し、`skk-search-prog-list` や `skk-jisyo-code` の設定で読み込む |
 
 macOS 標準の日本語入力（ことえり／日本語入力）は本辞書の対象外です。
 
