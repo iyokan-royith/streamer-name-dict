@@ -42,3 +42,14 @@ body:
       placeholder: 例）自分の公式 X（@xxxxx）でこの Issue の URL をポストしました
     validations:
       required: false
+
+  - type: textarea
+    id: note
+    attributes:
+      label: 補足（任意）
+      description: 他に伝えておきたいことがあれば自由にどうぞ
+      placeholder: |
+        例）関連する別表記（愛称・略称）もあわせて削除してほしい
+        例）削除理由を伝えておきたい（任意です）
+    validations:
+      required: false
