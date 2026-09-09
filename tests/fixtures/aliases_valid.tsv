@@ -1,3 +1,6 @@
 person_id	surface	reading	kind	note	added
 zeta-k4sen	ケイフォー	けいふぉー	nickname	ニックネーム	2026-09-07
 nijisanji-kuzuha	葛葉	くずわ	reading_variant	表記ゆれ	2026-09-07
+nijisanji-kuzuha	葛	くず	family_name	姓	2026-09-09
+zeta-k4sen	SEN	せん	given_name	名（英字表記の一部）	2026-09-09
+nijisanji-kuzuha	葛葉	くず	short_name	短縮名からフルネームへ	2026-09-09

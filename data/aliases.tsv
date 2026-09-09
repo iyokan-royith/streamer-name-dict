@@ -6,3 +6,248 @@ hololive-akirosenthal	あきロゼ	あきろぜ	nickname	愛称	2026-09-09
 hololive-akirosenthal	アキ・ローゼンタール	あきろぜ	nickname	愛称からフルネームへの変換	2026-09-09
 hololive-robocosan	ロボ子さん	ろぼこ	reading_variant	省略した読み	2026-09-09
 hololive-yukihanalamy	雪花ラミィ	ゆきはならみー	reading_variant	表記揺れ	2026-09-09
+hololive-tokinosora	ときの	ときの	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-tokinosora	そら	そら	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-shirakamifubuki	白上	しらかみ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-shirakamifubuki	フブキ	ふぶき	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-usadapekora	兎田	うさだ	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-usadapekora	ぺこら	ぺこら	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-houshoumarine	宝鐘	ほうしょう	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-houshoumarine	マリン	まりん	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-hoshimachisuisei	星街	ほしまち	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-hoshimachisuisei	すいせい	すいせい	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hyakumantenbarasalome	壱百満天原	ひゃくまんてんばら	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hyakumantenbarasalome	サロメ	さろめ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hoshikawasara	星川	ほしかわ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hoshikawasara	サラ	さら	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-inuitoko	戌亥	いぬい	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-inuitoko	とこ	とこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shuyamino	闇ノ	やみの	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shuyamino	シュウ	しゅう	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kagamihayato	加賀美	かがみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kagamihayato	ハヤト	はやと	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-machitachima	町田	まちた	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-machitachima	ちま	ちま	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-amamiyakokoro	天宮	あまみや	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-amamiyakokoro	こころ	こころ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-honmahimawari	本間	ほんま	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-honmahimawari	ひまわり	ひまわり	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-suzuharalulu	鈴原	すずはら	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-suzuharalulu	るる	るる	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-nishizonochigusa	西園	にしぞの	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-nishizonochigusa	チグサ	ちぐさ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-suosango	周央	すおう	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-suosango	サンゴ	さんご	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-mashiromeme	ましろ	ましろ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-mashiromeme	爻	めめ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yorumirena	夜見	よるみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yorumirena	れな	れな	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-makainoririmu	魔界ノ	まかいの	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-makainoririmu	りりむ	りりむ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hanabatakechaika	花畑	はなばたけ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hanabatakechaika	チャイカ	ちゃいか	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-takamiyarion	鷹宮	たかみや	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-takamiyarion	リオン	りおん	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-koyanagirou	小柳	こやなぎ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-koyanagirou	ロウ	ろう	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shikinagiakira	四季凪	しきなぎ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shikinagiakira	アキラ	あきら	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hoshirubesho	星導	ほしるべ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hoshirubesho	ショウ	しょう	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shioriharuri	栞葉	しおりは	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shioriharuri	るり	るり	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-uzukikou	卯月	うづき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-uzukikou	コウ	こう	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-ishigaminozomi	石神	いしがみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-ishigaminozomi	のぞみ	のぞみ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yuhiriri	夕陽	ゆうひ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yuhiriri	リリ	りり	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hibachimana	緋八	ひばち	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hibachimana	マナ	まな	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-inamirai	伊波	いなみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-inamirai	ライ	らい	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-saikiittetsu	佐伯	さいき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-saikiittetsu	イッテツ	いってつ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-murakumokagetsu	叢雲	むらくも	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-murakumokagetsu	カゲツ	かげつ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-usamirito	宇佐美	うさみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-usamirito	リト	りと	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-fushimigaku	伏見	ふしみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-fushimigaku	ガク	がく	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-tamanoinana	珠乃井	たまのい	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-tamanoinana	ナナ	なな	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-akagiwen	赤城	あかぎ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-akagiwen	ウェン	うぇん	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-sakakiness	榊	さかき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-sakakiness	ネス	ねす	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shishidoakari	獅子堂	ししどう	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shishidoakari	あかり	あかり	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yuzukiroa	夢月	ゆづき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yuzukiroa	ロア	ろあ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kitakojihisui	北小路	きたこうじ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kitakojihisui	ヒスイ	ひすい	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-matsukaimao	魔使	まつかい	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-matsukaimao	マオ	まお	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-nagisatrout	渚	なぎさ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-nagisatrout	トラウト	とらうと	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-ienagamugi	家長	いえなが	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-ienagamugi	むぎ	むぎ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-saotomeberry	早乙女	さおとめ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-saotomeberry	ベリー	べりー	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kuroishiba	黒井	くろい	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kuroishiba	しば	しば	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kuramochimeruto	倉持	くらもち	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kuramochimeruto	めると	めると	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yamagamikaruta	山神	やまがみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yamagamikaruta	カルタ	かるた	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kaburakiroco	鏑木	かぶらき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kaburakiroco	ろこ	ろこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shigariko	司賀	しが	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shigariko	りこ	りこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kiraratamako	雲母	きらら	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kiraratamako	たまこ	たまこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-sorahoshikirame	空星	そらほし	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-sorahoshikirame	きらめ	きらめ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-todokohaku	東堂	とうどう	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-todokohaku	コハク	こはく	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yagurumarine	矢車	やぐるま	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-yagurumarine	りね	りね	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-harusakiair	春崎	はるさき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-harusakiair	エアル	えある	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-ushimiichigo	宇志海	うしみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-ushimiichigo	いちご	いちご	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kaminagataiga	神永	かみなが	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kaminagataiga	タイガ	たいが	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shibuyahajime	渋谷	しぶや	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shibuyahajime	ハジメ	はじめ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-minamomadoka	水面	みなも	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-minamomadoka	まどか	まどか	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-amagasemuyu	天ヶ瀬	あまがせ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-amagasemuyu	むゆ	むゆ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shiroseisumi	城瀬	しろせ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shiroseisumi	いすみ	いすみ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shirasaayane	白砂	しらさ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shirasaayane	あやね	あやね	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-sumeragireo	皇	すめらぎ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-sumeragireo	れお	れお	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kadoumikaru	蝸堂	かどう	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kadoumikaru	みかる	みかる	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hanakagotsubasa	花籠	はなかご	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-hanakagotsubasa	つばさ	つばさ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-senriayumu	千凛	せんり	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-senriayumu	あゆむ	あゆむ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-togawanonoha	十河	とがわ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-togawanonoha	ののは	ののは	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shinomiyayuno	篠宮	しのみや	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-shinomiyayuno	ゆの	ゆの	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-asukahina	飛鳥	あすか	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-asukahina	ひな	ひな	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kokonamiiruka	小々波	ここなみ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-kokonamiiruka	いるか	いるか	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+nijisanji-akiraray	明楽	あきら	family_name	公式ふりがなの語区切り＋かな境界で分割	2026-09-09
+nijisanji-akiraray	レイ	れい	given_name	公式ふりがなの語区切り＋かな境界で分割	2026-09-09
+hololive-sakuramiko	さくら	さくら	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-sakuramiko	みこ	みこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-nakiriayame	百鬼	なきり	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-nakiriayame	あやめ	あやめ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-yuzukichoco	癒月	ゆづき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-yuzukichoco	ちょこ	ちょこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-shishirobotan	獅白	ししろ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-shishirobotan	ぼたん	ぼたん	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-akaihaato	赤井	あかい	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-akaihaato	はあと	はあと	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-natsuiromatsuri	夏色	なついろ	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-natsuiromatsuri	まつり	まつり	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-oozorasubaru	大空	おおぞら	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-oozorasubaru	スバル	すばる	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-ookamimio	大神	おおかみ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-ookamimio	ミオ	みお	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-nekomataokayu	猫又	ねこまた	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-nekomataokayu	おかゆ	おかゆ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-inugamikorone	戌神	いぬがみ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-inugamikorone	ころね	ころね	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-shiranuiflare	不知火	しらぬい	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-shiranuiflare	フレア	ふれあ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-shiroganenoel	白銀	しろがね	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-shiroganenoel	ノエル	のえる	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-tsunomakiwatame	角巻	つのまき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-tsunomakiwatame	わため	わため	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-tokoyamitowa	常闇	とこやみ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-tokoyamitowa	トワ	とわ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-himemoriluna	姫森	ひめもり	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-himemoriluna	ルーナ	るーな	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-yukihanalamy	雪花	ゆきはな	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-yukihanalamy	ラミィ	らみぃ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-momosuzunene	桃鈴	ももすず	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-momosuzunene	ねね	ねね	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-omarupolka	尾丸	おまる	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-omarupolka	ポルカ	ぽるか	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-takanelui	鷹嶺	たかね	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-takanelui	ルイ	るい	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-hakuikoyori	博衣	はくい	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-hakuikoyori	こより	こより	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kazamairoha	風真	かざま	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kazamairoha	いろは	いろは	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-moricalliope	森	もり	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-moricalliope	カリオペ	かりおぺ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-takanashikiara	小鳥遊	たかなし	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-takanashikiara	キアラ	きあら	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kosekibijou	古石	こせき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kosekibijou	ビジュー	びじゅー	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-juufuuteiraden	儒烏風亭	じゅうふうてい	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-juufuuteiraden	らでん	らでん	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-todorokihajime	轟	とどろき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-todorokihajime	はじめ	はじめ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-isakiriona	響咲	いさき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-isakiriona	リオナ	りおな	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kikiraravivi	綺々羅々	ききらら	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kikiraravivi	ヴィヴィ	ゔぃゔぃ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-izukimichiru	井月	いづき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-izukimichiru	みちる	みちる	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-hanazonosayaka	花園	はなぞの	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-hanazonosayaka	さやか	さやか	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kazeshiroyuki	風白	かぜしろ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-kazeshiroyuki	ゆき	ゆき	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-kanadeizuru	奏手	かなで	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-kanadeizuru	イヅル	いづる	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-yukokuroberu	夕刻	ゆうこく	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-yukokuroberu	ロベル	ろべる	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-aragamioga	荒咬	あらがみ	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-aragamioga	オウガ	おうが	given_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-banzoinhakka	万象院	ばんぞういん	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-banzoinhakka	ハッカ	はっか	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-josuijishinri	定水寺	じょうすいじ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+holostars-josuijishinri	シンリ	しんり	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
+hololive-shirakamifubuki	白上フブキ	ふぶき	short_name	本人チャンネル名の短縮名（フブキ）からフルネームへ	2026-09-09
+hololive-usadapekora	兎田ぺこら	ぺこら	short_name	本人チャンネル名の短縮名（Pekora）からフルネームへ	2026-09-09
+hololive-houshoumarine	宝鐘マリン	まりん	short_name	本人チャンネル名の短縮名（Marine）からフルネームへ	2026-09-09
+hololive-hoshimachisuisei	星街すいせい	すいせい	short_name	本人チャンネル名の短縮名（Suisei）からフルネームへ	2026-09-09
+hololive-natsuiromatsuri	夏色まつり	まつり	short_name	本人チャンネル名の短縮名（Matsuri）からフルネームへ	2026-09-09
+hololive-oozorasubaru	大空スバル	すばる	short_name	本人チャンネル名の短縮名（Subaru）からフルネームへ	2026-09-09
+hololive-ookamimio	大神ミオ	みお	short_name	本人チャンネル名の短縮名（Mio）からフルネームへ	2026-09-09
+hololive-nekomataokayu	猫又おかゆ	おかゆ	short_name	本人チャンネル名の短縮名（Okayu）からフルネームへ	2026-09-09
+hololive-inugamikorone	戌神ころね	ころね	short_name	本人チャンネル名の短縮名（Korone）からフルネームへ	2026-09-09
+hololive-shiranuiflare	不知火フレア	ふれあ	short_name	本人チャンネル名の短縮名（Flare）からフルネームへ	2026-09-09
+hololive-shiroganenoel	白銀ノエル	のえる	short_name	本人チャンネル名の短縮名（Noel）からフルネームへ	2026-09-09
+hololive-tsunomakiwatame	角巻わため	わため	short_name	本人チャンネル名の短縮名（Watame）からフルネームへ	2026-09-09
+hololive-tokoyamitowa	常闇トワ	とわ	short_name	本人チャンネル名の短縮名（Towa）からフルネームへ	2026-09-09
+hololive-himemoriluna	姫森ルーナ	るーな	short_name	本人チャンネル名の短縮名（Luna）からフルネームへ	2026-09-09
+hololive-yukihanalamy	雪花ラミィ	らみぃ	short_name	本人チャンネル名の短縮名（Lamy）からフルネームへ	2026-09-09
+hololive-momosuzunene	桃鈴ねね	ねね	short_name	本人チャンネル名の短縮名（Nene）からフルネームへ	2026-09-09
+hololive-omarupolka	尾丸ポルカ	ぽるか	short_name	本人チャンネル名の短縮名（Polka）からフルネームへ	2026-09-09
+hololive-takanelui	鷹嶺ルイ	るい	short_name	本人チャンネル名の短縮名（Lui）からフルネームへ	2026-09-09
+hololive-hakuikoyori	博衣こより	こより	short_name	本人チャンネル名の短縮名（Koyori）からフルネームへ	2026-09-09
+hololive-kazamairoha	風真いろは	いろは	short_name	本人チャンネル名の短縮名（Iroha）からフルネームへ	2026-09-09
+hololive-otonosekanade	音乃瀬奏	かなで	short_name	本人チャンネル名の短縮名（Kanade）からフルネームへ	2026-09-09
+hololive-ichijouririka	一条莉々華	りりか	short_name	本人チャンネル名の短縮名（Ririka）からフルネームへ	2026-09-09
+hololive-juufuuteiraden	儒烏風亭らでん	らでん	short_name	本人チャンネル名の短縮名（Raden）からフルネームへ	2026-09-09
+hololive-todorokihajime	轟はじめ	はじめ	short_name	本人チャンネル名の短縮名（Hajime）からフルネームへ	2026-09-09
+hololive-isakiriona	響咲リオナ	りおな	short_name	本人チャンネル名の短縮名（Riona）からフルネームへ	2026-09-09
+hololive-koganeiniko	虎金妃笑虎	にこ	short_name	本人チャンネル名の短縮名（Niko）からフルネームへ	2026-09-09
+hololive-rindochihaya	輪堂千速	ちはや	short_name	本人チャンネル名の短縮名（Chihaya）からフルネームへ	2026-09-09
+hololive-kikiraravivi	綺々羅々ヴィヴィ	ゔぃゔぃ	short_name	本人チャンネル名の短縮名（Vivi）からフルネームへ	2026-09-09
+holostars-kanadeizuru	奏手イヅル	いづる	short_name	本人チャンネル名の短縮名（Izuru）からフルネームへ	2026-09-09
+holostars-yukokuroberu	夕刻ロベル	ろべる	short_name	本人チャンネル名の短縮名（Roberu）からフルネームへ	2026-09-09
+holostars-aragamioga	荒咬オウガ	おうが	short_name	本人チャンネル名の短縮名（Oga）からフルネームへ	2026-09-09
+holostars-yatogamifuma	夜十神封魔	ふうま	short_name	本人チャンネル名の短縮名（Fuma）からフルネームへ	2026-09-09
+holostars-utsugiuyu	羽継烏有	うゆう	short_name	本人チャンネル名の短縮名（Uyu）からフルネームへ	2026-09-09

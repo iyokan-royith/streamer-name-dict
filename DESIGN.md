@@ -77,14 +77,26 @@
 | `person_id` | `hololive-yuzukichoco` | `data/entries.tsv` に存在する `person_id`。削除申請の単位も entries 側と共有する |
 | `surface` | `ちょこ先` | 表記。愛称の場合は正式名と異なる表記になる |
 | `reading` | `ちょこせん` | ひらがな読み（entries と同じ規則） |
-| `kind` | `nickname` | `nickname`＝表記が正式名と異なる愛称／`reading_variant`＝表記は正式名と同じだが別の読みが通用している（表記揺れ） |
+| `kind` | `nickname` | 下表の 5 種別のいずれか |
 | `note` | `愛称` | 自由記述 |
 | `added` | `2026-09-09` | 登録日 |
+
+**`kind` の種別**
+
+| `kind` | `surface` | `reading` | 意味 |
+|---|---|---|---|
+| `nickname` | 正式名と異なる愛称（`ちょこ先`） | 愛称の読み（`ちょこせん`） | 愛称を変換する |
+| `reading_variant` | 正式名そのもの（`癒月ちょこ`） | 通用している別の読み（`ゆずきちょこ`） | 表記揺れ・別読み |
+| `family_name` | 正式名の**姓の部分**（`雪花`） | その部分の読み（`ゆきはな`） | 姓だけで変換する |
+| `given_name` | 正式名の**名の部分**（`ラミィ`） | その部分の読み（`らみぃ`） | 名だけで変換する |
+| `short_name` | **正式名そのもの**（`雪花ラミィ`） | 本人が名乗る短縮名の読み（`らみぃ`） | 短縮名からフルネームへ変換する |
 
 - **正式な読みではない**。IME 辞書としては採用するが、`entries.tsv` の主張（本人・組織公式または出典明示の公開文献）は持たない
 - **出典は求めない**。PR での追加も出典 URL は必須にしない
 - **本人が望まない愛称は削除申請の対象**。`person_id` 単位で扱うため、正式名の削除申請（Issue）と同じ手続きで、その人物の alias も一緒に消える
-- `kind=reading_variant` は、同じ `person_id` の `entries.tsv` に**同じ `surface`** を持つ行が存在すること（別表記に対する別読みは想定しない・そちらは entries 側の別行）
+- `kind=reading_variant`・`short_name` は、同じ `person_id` の `entries.tsv` に**同じ `surface`** を持つ行が存在すること（別表記に対する別読みは想定しない・そちらは entries 側の別行）
+- `kind=family_name`・`given_name` は、`surface` が同じ `person_id` の `entries.tsv` のいずれかの `surface` の**部分文字列**であること（正式名を切り出したものだけを姓・名として扱う）。姓・名の分割の根拠（読みの語区切りとかな境界など）は `note` に書く
+- `surface` と `reading` が**ともに 1 文字**の行は登録できない（1 文字同士の変換候補は IME 辞書として有害なため。片方だけが 1 文字の行——例: `榊`／`さかき`——は登録できる）
 - `entries.tsv` 側で `status=removed` になった `person_id` の alias は、`build.py` の生成物から連動して除外される
 - 出力（`dist/`）では entries と合わせて同じ4形式に含める（品詞は entries と同じ「人名」。ATOK のみ「固有人名」）
 

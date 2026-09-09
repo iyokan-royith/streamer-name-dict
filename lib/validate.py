@@ -15,7 +15,7 @@ from pathlib import Path
 
 from .aliases import AliasRow, load_aliases
 from .aliases import REQUIRED_FIELDS as ALIAS_REQUIRED_FIELDS
-from .aliases import VALID_KINDS
+from .aliases import FULL_SURFACE_KINDS, NAME_PART_KINDS, VALID_KINDS
 from .entries import EntryRow, REQUIRED_FIELDS, VALID_READING_SOURCES, VALID_STATUSES, load_entries
 
 # ひらがなのみを許可する（長音記号「ー」は将来の読みで使う可能性があるため許容）。
@@ -142,21 +142,65 @@ def check_alias_person_id_exists(rows: list[AliasRow], entry_rows: list[EntryRow
     return errors
 
 
-def check_alias_reading_variant_surface_matches(rows: list[AliasRow], entry_rows: list[EntryRow]) -> list[str]:
-    """kind=reading_variant の alias は、同じ person_id の entries に同じ surface が存在すること。"""
+def _surfaces_by_person(entry_rows: list[EntryRow]) -> dict[str, set[str]]:
     surfaces_by_person: dict[str, set[str]] = {}
     for entry in entry_rows:
         surfaces_by_person.setdefault(entry["person_id"], set()).add(entry["surface"])
+    return surfaces_by_person
+
+
+def check_alias_reading_variant_surface_matches(rows: list[AliasRow], entry_rows: list[EntryRow]) -> list[str]:
+    """kind=reading_variant / short_name の alias は、同じ person_id の entries に同じ surface が存在すること。
+
+    どちらも「正式名の表記そのもの」に別の読みを与える種別なので、表記は entries 側と一致していなければならない。
+    """
+    surfaces_by_person = _surfaces_by_person(entry_rows)
 
     errors = []
     for row in rows:
-        if row["kind"] != "reading_variant":
+        if row["kind"] not in FULL_SURFACE_KINDS:
             continue
         known_surfaces = surfaces_by_person.get(row["person_id"], set())
         if row["surface"] not in known_surfaces:
             errors.append(
-                f"{row.line_no}行目: kind=reading_variant ですが、"
+                f"{row.line_no}行目: kind={row['kind']} ですが、"
                 f" person_id={row['person_id']!r} の entries に surface {row['surface']!r} が見つかりません"
+            )
+    return errors
+
+
+def check_alias_name_part_surface_is_substring(rows: list[AliasRow], entry_rows: list[EntryRow]) -> list[str]:
+    """kind=family_name / given_name の alias は、surface が同じ person_id の entries のいずれかの surface の部分文字列であること。
+
+    姓・名は正式名を切り出したものなので、正式名に含まれない文字列を「姓」「名」として登録することはできない。
+    """
+    surfaces_by_person = _surfaces_by_person(entry_rows)
+
+    errors = []
+    for row in rows:
+        if row["kind"] not in NAME_PART_KINDS:
+            continue
+        surface = row["surface"]
+        known_surfaces = surfaces_by_person.get(row["person_id"], set())
+        if not surface or not any(surface in known for known in known_surfaces):
+            errors.append(
+                f"{row.line_no}行目: kind={row['kind']} ですが、"
+                f" surface {surface!r} が person_id={row['person_id']!r} の entries のどの surface にも含まれていません"
+            )
+    return errors
+
+
+def check_alias_no_single_char_pair(rows: list[AliasRow]) -> list[str]:
+    """surface と reading が**ともに** 1 文字の行は拒否する（`は`→`ハ` のような 1 文字の変換候補は IME 辞書として有害）。
+
+    片方だけが 1 文字の行（例: surface `榊`・reading `さかき`）は通常の辞書項目なので許容する。
+    """
+    errors = []
+    for row in rows:
+        if len(row["surface"]) == 1 and len(row["reading"]) == 1:
+            errors.append(
+                f"{row.line_no}行目: surface {row['surface']!r} と reading {row['reading']!r} がともに 1 文字です"
+                f"（1 文字同士の変換候補は登録できません・person_id={row['person_id']!r}）"
             )
     return errors
 
@@ -187,6 +231,8 @@ def validate_aliases(rows: list[AliasRow], entry_rows: list[EntryRow]) -> list[s
     errors += check_alias_kind_valid(rows)
     errors += check_alias_person_id_exists(rows, entry_rows)
     errors += check_alias_reading_variant_surface_matches(rows, entry_rows)
+    errors += check_alias_name_part_surface_is_substring(rows, entry_rows)
+    errors += check_alias_no_single_char_pair(rows)
     errors += check_no_duplicate_alias(rows)
     return errors
 
