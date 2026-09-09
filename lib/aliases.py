@@ -32,7 +32,15 @@ REQUIRED_FIELDS = [
 # kind の定義済み値
 # - nickname: 表記が正式名と異なる愛称
 # - reading_variant: 表記は正式名と同じだが、別の読みが通用している（表記揺れ）
-VALID_KINDS = {"nickname", "reading_variant"}
+# - family_name: 正式名の姓の部分だけ（surface は正式名の部分文字列・reading はその部分の読み）
+# - given_name: 正式名の名の部分だけ（同上）
+# - short_name: 本人が名乗る短縮名からフルネームへの変換（surface は正式名そのもの・reading は短縮名の読み）
+VALID_KINDS = {"nickname", "reading_variant", "family_name", "given_name", "short_name"}
+
+# surface が同じ person_id の正式名の部分文字列であることを求める kind
+NAME_PART_KINDS = {"family_name", "given_name"}
+# surface が同じ person_id の正式名と一致することを求める kind
+FULL_SURFACE_KINDS = {"reading_variant", "short_name"}
 
 
 @dataclass

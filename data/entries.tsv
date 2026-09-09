@@ -370,7 +370,7 @@ nijisanji-seible	Seible	せいぶる	org_kana	https://www.nijisanji.jp/talents/l
 nijisanji-claudeclawmark	Claude Clawmark	くろーどくろーまーく	org_kana	https://www.nijisanji.jp/talents/l/claude-clawmark	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
 nijisanji-klaracharmwood	Klara Charmwood	くららちゃーむうっど	org_kana	https://www.nijisanji.jp/talents/l/klara-charmwood	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
 nijisanji-ryomabarrenwort	Ryoma Barrenwort	りょうまばれんうぉーと	org_kana	https://www.nijisanji.jp/talents/l/ryoma-barrenwort	NIJISANJI EN	https://www.nijisanji.jp/talents	active	2026-09-09	公式一覧の英字表記。
-hololive-mizumiyasu	水宮枢	すずみやすう	org_romaji	https://hololive.hololivepro.com/talents/mizumiya-su/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	公式サイトのローマ字表記から確定。
+hololive-mizumiyasu	水宮枢	みずみやすう	org_romaji	https://hololive.hololivepro.com/talents/mizumiya-su/	hololive	https://hololive.hololivepro.com/talents/	active	2026-09-07	公式サイトのローマ字表記（Mizumiya Su）から確定。日本語版 Wikipedia「FLOW GLOW」記事のメンバー表（みずみや すう）とも一致。
 holostars-kanadeizuru	奏手イヅル	かなでいづる	wikidata	https://www.wikidata.org/wiki/Q109852033	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
 holostars-yukokuroberu	夕刻ロベル	ゆうこくろべる	wikidata	https://www.wikidata.org/wiki/Q109850789	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
 holostars-aragamioga	荒咬オウガ	あらがみおうが	wikidata	https://www.wikidata.org/wiki/Q109984232	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikidata の「かな表記」（P1814）。
@@ -379,6 +379,19 @@ holostars-utsugiuyu	羽継烏有	うつぎうゆう	wikidata	https://www.wikidat
 holostars-banzoinhakka	万象院ハッカ	ばんぞういんはっか	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション#ホロスターズEnglish	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
 holostars-josuijishinri	定水寺シンリ	じょうすいじしんり	wikipedia	https://ja.wikipedia.org/wiki/ホロライブプロダクション#ホロスターズEnglish	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
 holostars-machinaxflayon	マキナ・X・フレオン	まきなえくすふれおん	org_romaji	https://holostars.hololivepro.com/talent/flayon/	HOLOSTARS	https://holostars.hololivepro.com/talent	active	2026-09-09	公式サイトのローマ字表記から確定。
+aogiri-etra	エトラ	えとら	kana_surface	https://vhs-city.com/aogirihighschool/members/	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	表記自体がかなのみ。
+aogiri-puwapuwapopura	ぷわぷわぽぷら	ぷわぷわぽぷら	kana_surface	https://vhs-city.com/aogirihighschool/members/	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	表記自体がかなのみ。
+aogiri-otodamatamako	音霊魂子	おとだまたまこ	wikipedia	https://ja.wikipedia.org/wiki/音霊魂子	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia「あおぎり高校」記事のメンバー表の読み（記事に出典あり。DESIGN の判定単位＝記事）。
+aogiri-ishikariakari	石狩あかり	いしかりあかり	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia「あおぎり高校」記事のメンバー表の読み（記事に出典あり。DESIGN の判定単位＝記事）。
+aogiri-yamaguronekuro	山黒音玄	やまぐろねくろ	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia「あおぎり高校」記事のメンバー表の読み（記事に出典あり。DESIGN の判定単位＝記事）。
+aogiri-kurikomakomaru	栗駒こまる	くりこまこまる	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia「あおぎり高校」記事のメンバー表の読み（記事に出典あり。DESIGN の判定単位＝記事）。
+aogiri-chiyourachiyomi	千代浦蝶美	ちようらちよみ	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia「あおぎり高校」記事のメンバー表の読み（記事に出典あり。DESIGN の判定単位＝記事）。
+aogiri-gaburieru	我部りえる	がぶりえる	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
+aogiri-harusameurame	春雨麗女	はるさめうらめ	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
+aogiri-moemi	萌実	もえみ	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia「あおぎり高校」記事のメンバー表の読み（記事に出典あり。DESIGN の判定単位＝記事）。
+aogiri-tsukiyukiibuki	月赴ゐぶき	つきゆきいぶき	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
+aogiri-urutoragaru	うる虎がーる	うるとらがーる	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
+aogiri-yasoshinamujina	八十科むじな	やそしなむじな	wikipedia	https://ja.wikipedia.org/wiki/あおぎり高校	あおぎり高校	https://vhs-city.com/aogirihighschool/members/	active	2026-09-09	Wikipedia 記事本文の読み（出典脚注あり）。
 vspo-rikosolari	ソラリリコ	そらりりこ	kana_surface	https://vspo.jp/member/#riko	ぶいすぽっ！	https://vspo.jp/member/	active	2026-09-09	表記自体がかなのみ YouTube: https://www.youtube.com/@rikosolari
 vee-kagaseuno	カガセ・ウノ	かがせうの	kana_surface	https://vee-official.jp/talent/kagase-uno/	VEE	https://vee-official.jp/talent/	active	2026-09-09	表記自体がかなのみ YouTube: https://www.youtube.com/@kagase_uno
 vee-kashiotoha	カシ・オトハ	かしおとは	kana_surface	https://vee-official.jp/talent/kashi-otoha/	VEE	https://vee-official.jp/talent/	active	2026-09-09	表記自体がかなのみ YouTube: https://www.youtube.com/@kashiotoha8669
