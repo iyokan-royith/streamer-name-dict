@@ -52,3 +52,14 @@ body:
       placeholder: 例）ZETA DIVISION
     validations:
       required: false
+
+  - type: textarea
+    id: note
+    attributes:
+      label: 補足（任意）
+      description: 他に伝えておきたいことがあれば自由にどうぞ
+      placeholder: |
+        例）フルネームの登録と一緒に、名字だけのエントリも登録してほしい
+        例）ファンネームなど、表記について補足しておきたいことがある
+    validations:
+      required: false
