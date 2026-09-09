@@ -8,3 +8,6 @@ rules:
   line-length:
     max: 150
   document-start: disable
+  # GitHub Actions の `on:` キーが truthy と誤検出されるため、キーは判定対象外にする（値の yes/no は引き続き検出）
+  truthy:
+    check-keys: false
