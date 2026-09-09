@@ -6,8 +6,8 @@ hololive-akirosenthal	あきロゼ	あきろぜ	nickname	愛称	2026-09-09
 hololive-akirosenthal	アキ・ローゼンタール	あきろぜ	nickname	愛称からフルネームへの変換	2026-09-09
 hololive-robocosan	ロボ子さん	ろぼこ	reading_variant	省略した読み	2026-09-09
 hololive-yukihanalamy	雪花ラミィ	ゆきはならみー	reading_variant	表記揺れ	2026-09-09
-hololive-tokinosora	ときの	ときの	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
-hololive-tokinosora	そら	そら	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-tokinosora	ときの	ときの	family_name	公式ローマ字の空白区切りで分割（表記は全かな）	2026-09-09
+hololive-tokinosora	そら	そら	given_name	公式ローマ字の空白区切りで分割（表記は全かな）	2026-09-09
 hololive-shirakamifubuki	白上	しらかみ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
 hololive-shirakamifubuki	フブキ	ふぶき	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-09
 hololive-usadapekora	兎田	うさだ	family_name	Wikidata かな表記の語区切り＋かな境界で分割	2026-09-09
@@ -146,8 +146,8 @@ nijisanji-kokonamiiruka	小々波	ここなみ	family_name	公式ローマ字の
 nijisanji-kokonamiiruka	いるか	いるか	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
 nijisanji-akiraray	明楽	あきら	family_name	公式ふりがなの語区切り＋かな境界で分割	2026-09-09
 nijisanji-akiraray	レイ	れい	given_name	公式ふりがなの語区切り＋かな境界で分割	2026-09-09
-hololive-sakuramiko	さくら	さくら	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
-hololive-sakuramiko	みこ	みこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
+hololive-sakuramiko	さくら	さくら	family_name	公式ローマ字の空白区切りで分割（表記は全かな）	2026-09-09
+hololive-sakuramiko	みこ	みこ	given_name	公式ローマ字の空白区切りで分割（表記は全かな）	2026-09-09
 hololive-nakiriayame	百鬼	なきり	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
 hololive-nakiriayame	あやめ	あやめ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
 hololive-yuzukichoco	癒月	ゆづき	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-09
