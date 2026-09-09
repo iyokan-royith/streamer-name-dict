@@ -18,6 +18,14 @@ ATOK_HEADER = "!!ATOK_TANGO_TEXT_HEADER_1"
 SKK_OKURI_ARI_HEADER = ";; okuri-ari entries."
 SKK_OKURI_NASI_HEADER = ";; okuri-nasi entries."
 
+# SKK-JISYO.L（skk-dev/dict）の実例で確認済み: ヴ音のひらがな表記は「ゔ」（U+3094・結合済み1文字）
+# ではなく「う゛」（う U+3046 + 濁点 U+309B・2文字）で見出しに現れる
+# （実例: "ぐるーう゛かん /グルーヴ感/"・"しう゛ぁ /湿婆/"）。SKKIME 等の `vu` ローマ字入力も
+# 「う゛」を生成するため、SKK 形式の見出しだけこの表記に変換する。
+# data/entries.tsv・data/aliases.tsv 側の正本は「ゔ」のまま変更しない（他の3形式は「ゔ」を使う）。
+def _to_skk_vu_notation(reading: str) -> str:
+    return reading.replace("ゔ", "う゛")
+
 
 def generate_ms_ime(rows: list[EntryRow]) -> bytes:
     """MS-IME（Microsoft IME）ユーザー辞書インポート用テキスト。
@@ -64,10 +72,15 @@ def generate_skk(rows: list[EntryRow]) -> bytes:
     skk-dev の辞書規約（`committers.md`）は、どんな小さな辞書でも
     `;; okuri-ari entries.` `;; okuri-nasi entries.` の2行を必ず含めることを定めている。
     本辞書は送りあり活用語を扱わないため okuri-ari 節は空にし、全項目を okuri-nasi 節に置く。
+
+    読みに「ゔ」を含む場合は、SKK の慣習に合わせて見出しだけ「う゛」に変換する
+    （`_to_skk_vu_notation` 参照）。変換後の文字列でグルーピング・ソートするため、
+    「ゔ」と「う゛」で読みが実質同じ項目は自動的に1行へ統合される。
     """
     grouped: dict[str, list[str]] = {}
     for row in rows:
-        surfaces = grouped.setdefault(row["reading"], [])
+        reading = _to_skk_vu_notation(row["reading"])
+        surfaces = grouped.setdefault(reading, [])
         if row["surface"] not in surfaces:
             surfaces.append(row["surface"])
 
