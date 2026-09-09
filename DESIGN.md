@@ -96,7 +96,7 @@
 - **本人が望まない愛称は削除申請の対象**。`person_id` 単位で扱うため、正式名の削除申請（Issue）と同じ手続きで、その人物の alias も一緒に消える
 - `kind=reading_variant`・`short_name` は、同じ `person_id` の `entries.tsv` に**同じ `surface`** を持つ行が存在すること（別表記に対する別読みは想定しない・そちらは entries 側の別行）
 - `kind=family_name`・`given_name` は、`surface` が同じ `person_id` の `entries.tsv` のいずれかの `surface` の**部分文字列**であること（正式名を切り出したものだけを姓・名として扱う）。姓・名の分割の根拠（読みの語区切りとかな境界など）は `note` に書く
-- `surface` と `reading` が**ともに 1 文字**の行は登録できない（1 文字同士の変換候補は IME 辞書として有害なため。片方だけが 1 文字の行——例: `榊`／`さかき`——は登録できる）
+- **`reading` が 1 文字の行は登録しない**（1 文字の読みから人名候補が出るのは IME 辞書として有害なため。`surface` だけが 1 文字の行——例: `榊`／`さかき`——は登録できる）
 - `entries.tsv` 側で `status=removed` になった `person_id` の alias は、`build.py` の生成物から連動して除外される
 - 出力（`dist/`）では entries と合わせて同じ4形式に含める（品詞は entries と同じ「人名」。ATOK のみ「固有人名」）
 

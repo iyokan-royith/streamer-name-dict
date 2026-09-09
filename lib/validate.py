@@ -190,17 +190,17 @@ def check_alias_name_part_surface_is_substring(rows: list[AliasRow], entry_rows:
     return errors
 
 
-def check_alias_no_single_char_pair(rows: list[AliasRow]) -> list[str]:
-    """surface と reading が**ともに** 1 文字の行は拒否する（`は`→`ハ` のような 1 文字の変換候補は IME 辞書として有害）。
+def check_alias_no_single_char_reading(rows: list[AliasRow]) -> list[str]:
+    """reading が 1 文字の行は拒否する（`は`→`ハ` のように 1 文字の読みから人名候補が出るのは IME 辞書として有害）。
 
-    片方だけが 1 文字の行（例: surface `榊`・reading `さかき`）は通常の辞書項目なので許容する。
+    surface だけが 1 文字の行（例: surface `榊`・reading `さかき`）は通常の辞書項目なので許容する。
     """
     errors = []
     for row in rows:
-        if len(row["surface"]) == 1 and len(row["reading"]) == 1:
+        if len(row["reading"]) == 1:
             errors.append(
-                f"{row.line_no}行目: surface {row['surface']!r} と reading {row['reading']!r} がともに 1 文字です"
-                f"（1 文字同士の変換候補は登録できません・person_id={row['person_id']!r}）"
+                f"{row.line_no}行目: reading {row['reading']!r} が 1 文字です"
+                f"（1 文字の読みは登録できません・person_id={row['person_id']!r}）"
             )
     return errors
 
@@ -232,7 +232,7 @@ def validate_aliases(rows: list[AliasRow], entry_rows: list[EntryRow]) -> list[s
     errors += check_alias_person_id_exists(rows, entry_rows)
     errors += check_alias_reading_variant_surface_matches(rows, entry_rows)
     errors += check_alias_name_part_surface_is_substring(rows, entry_rows)
-    errors += check_alias_no_single_char_pair(rows)
+    errors += check_alias_no_single_char_reading(rows)
     errors += check_no_duplicate_alias(rows)
     return errors
 

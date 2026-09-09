@@ -6,7 +6,7 @@ from lib.entries import load_entries
 from lib.validate import (
     check_alias_kind_valid,
     check_alias_name_part_surface_is_substring,
-    check_alias_no_single_char_pair,
+    check_alias_no_single_char_reading,
     check_alias_person_id_exists,
     check_alias_reading_is_hiragana,
     check_alias_reading_variant_surface_matches,
@@ -146,16 +146,15 @@ def test_name_part_check_ignores_other_kinds():
     assert check_alias_name_part_surface_is_substring([row], entries) == []
 
 
-def test_single_char_surface_and_reading_pair_is_rejected():
-    bad = make_alias_row(surface="ハ", reading="は")
-    errors = check_alias_no_single_char_pair([bad])
-    assert len(errors) == 1
-    assert "1 文字" in errors[0]
+def test_single_char_reading_is_rejected():
+    for surface in ("ハ", "ケイ"):
+        errors = check_alias_no_single_char_reading([make_alias_row(surface=surface, reading="は")])
+        assert len(errors) == 1, surface
+        assert "1 文字" in errors[0]
 
 
-def test_single_char_on_one_side_only_is_allowed():
-    assert check_alias_no_single_char_pair([make_alias_row(surface="榊", reading="さかき")]) == []
-    assert check_alias_no_single_char_pair([make_alias_row(surface="ケイ", reading="け")]) == []
+def test_single_char_surface_with_longer_reading_is_allowed():
+    assert check_alias_no_single_char_reading([make_alias_row(surface="榊", reading="さかき")]) == []
 
 
 def test_duplicate_person_surface_reading_is_rejected():
@@ -188,4 +187,4 @@ def test_invalid_fixture_collects_all_error_types():
     assert any("重複" in e for e in errors)  # 重複
     assert any("family_name" in e and "葛丸" in e for e in errors)  # 姓が正式名に含まれない
     assert any("short_name" in e and "葛葉丸" in e for e in errors)  # short_name の surface 不一致
-    assert any("ともに 1 文字" in e for e in errors)  # 1 文字同士
+    assert any("1 文字です" in e for e in errors)  # reading が 1 文字

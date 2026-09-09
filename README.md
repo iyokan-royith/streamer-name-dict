@@ -86,7 +86,7 @@ PR か Issue でお知らせください。
    - `family_name`／`given_name`（正式名の姓の部分／名の部分だけ。`surface` は正式名の一部にしてください）
    - `short_name`（本人が名乗る短縮名の読みで正式名を変換。`surface` は正式名そのもの・`reading` は短縮名の読み）
    `reading_variant`・`short_name` の場合、`surface` は `entries.tsv` の当該人物の表記と一致させてください。
-   `surface` と `reading` がともに 1 文字の行は登録できません。
+   `reading` が 1 文字の行は登録できません。
 4. **出典 URL は不要です**（愛称・表記揺れは出典を求めない情報のため）。そのまま PR を送ってください。
 
 ## 削除・訂正申請
