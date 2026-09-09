@@ -116,6 +116,73 @@ def test_empty_rows_produce_empty_but_valid_output():
     assert generate_skk([]).decode("utf-8") == ";; okuri-ari entries.\n;; okuri-nasi entries.\n"
 
 
+def test_skk_converts_vu_reading_to_u_plus_dakuten():
+    """SKK-JISYO.L の実例（"ぐるーう゛かん /グルーヴ感/" 等）に合わせ、
+
+    見出しの「ゔ」（U+3094）は「う゛」（う U+3046 + 濁点 U+309B・2文字）に変換する（`#2`）。
+    data/entries.tsv 側の正本は「ゔ」のままで変更しない（他の3形式は「ゔ」を使う）。
+    """
+    rows = [
+        EntryRow(
+            2,
+            {
+                "person_id": "example-vu",
+                "surface": "ゔぉっくすあくま",
+                "reading": "ゔぉっくすあくま",
+                "reading_source": "self_channel_title",
+                "source_url": "https://example.com",
+                "org": "",
+                "org_source_url": "",
+                "status": "active",
+                "added": "2026-09-07",
+                "note": "",
+            },
+        )
+    ]
+    text = generate_skk(rows).decode("utf-8")
+    body = text.split("\n", 2)[-1]
+    assert "う゛ぉっくすあくま /ゔぉっくすあくま/" in text
+    assert "ゔ" not in body.split(" /", 1)[0]  # 見出し部分に結合済み「ゔ」が残っていない
+
+
+def test_skk_merges_vu_and_u_dakuten_readings_that_become_identical():
+    """「ゔ」を含む読み同士は、変換後に同じ「う゛」表記へ揃うので1行にまとめる。"""
+    rows = [
+        EntryRow(
+            2,
+            {
+                "person_id": "a",
+                "surface": "A",
+                "reading": "ゔぁ",
+                "reading_source": "pr_manual",
+                "source_url": "https://example.com",
+                "org": "",
+                "org_source_url": "",
+                "status": "active",
+                "added": "2026-09-07",
+                "note": "",
+            },
+        ),
+        EntryRow(
+            3,
+            {
+                "person_id": "b",
+                "surface": "B",
+                "reading": "ゔぁ",
+                "reading_source": "pr_manual",
+                "source_url": "https://example.com",
+                "org": "",
+                "org_source_url": "",
+                "status": "active",
+                "added": "2026-09-07",
+                "note": "",
+            },
+        ),
+    ]
+    text = generate_skk(rows).decode("utf-8")
+    assert "う゛ぁ /A/B/" in text
+
+
 def test_skk_always_includes_required_skk_dev_headers():
     """skk-dev の辞書規約（committers.md）は okuri-ari / okuri-nasi の2行を必須と定めている。
 
