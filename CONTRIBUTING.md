@@ -51,9 +51,15 @@ PR を作れない方は Issue の
 1. `data/aliases.tsv` に 1 行追加します（列: `person_id` / `surface` / `reading` / `kind` / `note` / `added`）。
 2. `person_id` は `data/entries.tsv` に既にある人物のものを使ってください（このファイルだけで
    新しい人物を作ることはできません）。
-3. `kind` は `nickname`（表記が正式名と異なる愛称）か `reading_variant`
-   （表記は正式名と同じで読みだけ別）のどちらかです。`reading_variant` を選んだ場合、
-   `surface` は `data/entries.tsv` の当該人物の表記と一致させてください（一致しないと検証エラーになります）。
+3. `kind` は次のいずれかです（詳しくは [DESIGN.md](./DESIGN.md) の aliases 節）:
+   - `nickname`（表記が正式名と異なる愛称）
+   - `reading_variant`（表記は正式名と同じで読みだけ別）
+   - `family_name`／`given_name`（正式名の姓の部分／名の部分だけ）
+   - `short_name`（本人が名乗る短縮名の読みで正式名を変換する。`surface` は正式名そのもの・`reading` は短縮名の読み）
+
+   `reading_variant`・`short_name` を選んだ場合、`surface` は `data/entries.tsv` の当該人物の表記と
+   一致させてください。`family_name`／`given_name` の `surface` は当該人物の表記の一部（部分文字列）に
+   してください（どちらも満たさないと検証エラーになります）。`reading` が 1 文字の行は登録できません。
 4. こちらは出典 URL は不要です（愛称・表記揺れはどこまで確認できるか難しいことが多いため求めていません）。
 5. 本人が望まない愛称は、正式名の削除申請（Issue）と同じ手続きで消せます。`person_id` 単位で扱うため、
    正式名が削除されるとその人物の愛称・表記揺れも自動的に配布物から除外されます。

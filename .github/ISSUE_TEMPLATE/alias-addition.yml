@@ -28,7 +28,7 @@ body:
     id: alias_surface
     attributes:
       label: 愛称・略称の表記
-      description: kind が「別読み（reading_variant）」の場合は正式表記と同じものを入れてください
+      description: kind が「別読み」「短縮名からフルネームへ」の場合は正式表記と同じもの、「姓だけ」「名だけ」の場合は正式表記の一部を入れてください
       placeholder: 例）ちょこ先
     validations:
       required: true
@@ -47,10 +47,15 @@ body:
       label: 種別
       description: |
         愛称（nickname）＝表記が正式名と異なる呼び方 ／
-        別読み（reading_variant）＝表記は正式名と同じで読みだけ別のもの
+        別読み（reading_variant）＝表記は正式名と同じで読みだけ別のもの ／
+        姓だけ（family_name）・名だけ（given_name）＝正式名の一部だけで変換 ／
+        短縮名（short_name）＝本人が名乗る短い呼び名の読みで正式名を変換
       options:
         - 愛称（表記が正式名と異なる）
         - 別読み（表記は正式名と同じで読みだけ別）
+        - 姓だけ（正式名の姓の部分）
+        - 名だけ（正式名の名の部分）
+        - 短縮名からフルネームへ（表記は正式名・読みは短縮名）
     validations:
       required: true
 

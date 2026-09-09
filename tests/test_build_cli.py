@@ -64,7 +64,7 @@ def test_build_merges_aliases_into_all_formats(tmp_path):
     out_dir = tmp_path / "dist"
     result = run_build(FIXTURES / "entries_valid.tsv", out_dir, FIXTURES / "aliases_valid.tsv")
     assert result.returncode == 0, result.stderr
-    assert "収録 4 件（正式 2・別名 2）" in result.stdout
+    assert "収録 7 件（正式 2・別名 5）" in result.stdout
 
     google_text = (out_dir / "streamer_dict_google_mozc.txt").read_text(encoding="utf-8")
     assert "ケイフォー" in google_text

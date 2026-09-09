@@ -5,6 +5,8 @@ from lib.aliases import AliasRow, load_aliases
 from lib.entries import load_entries
 from lib.validate import (
     check_alias_kind_valid,
+    check_alias_name_part_surface_is_substring,
+    check_alias_no_single_char_reading,
     check_alias_person_id_exists,
     check_alias_reading_is_hiragana,
     check_alias_reading_variant_surface_matches,
@@ -80,7 +82,7 @@ def test_undefined_kind_is_rejected():
 
 
 def test_defined_kind_is_ok():
-    for value in ["nickname", "reading_variant"]:
+    for value in ["nickname", "reading_variant", "family_name", "given_name", "short_name"]:
         row = make_alias_row(kind=value)
         assert check_alias_kind_valid([row]) == []
 
@@ -116,6 +118,45 @@ def test_nickname_does_not_require_matching_surface():
     assert check_alias_reading_variant_surface_matches([row], entries) == []
 
 
+def test_short_name_requires_matching_surface_in_entries():
+    entries = [make_entry_row(person_id="p1", surface="雪花ラミィ")]
+    bad = make_alias_row(person_id="p1", surface="ラミィ", reading="らみぃ", kind="short_name")
+    errors = check_alias_reading_variant_surface_matches([bad], entries)
+    assert len(errors) == 1
+    assert "short_name" in errors[0]
+
+    good = make_alias_row(person_id="p1", surface="雪花ラミィ", reading="らみぃ", kind="short_name")
+    assert check_alias_reading_variant_surface_matches([good], entries) == []
+
+
+def test_name_part_surface_must_be_substring_of_an_entry_surface():
+    entries = [make_entry_row(person_id="p1", surface="雪花ラミィ"), make_entry_row(line_no=3, person_id="p1", surface="Yukihana Lamy")]
+    for kind, surface in (("family_name", "雪花"), ("given_name", "ラミィ"), ("family_name", "Yukihana")):
+        row = make_alias_row(person_id="p1", surface=surface, kind=kind)
+        assert check_alias_name_part_surface_is_substring([row], entries) == [], (kind, surface)
+    bad = make_alias_row(person_id="p1", surface="雪華", kind="family_name")
+    errors = check_alias_name_part_surface_is_substring([bad], entries)
+    assert len(errors) == 1
+    assert "family_name" in errors[0] and "雪華" in errors[0]
+
+
+def test_name_part_check_ignores_other_kinds():
+    entries = [make_entry_row(person_id="p1", surface="雪花ラミィ")]
+    row = make_alias_row(person_id="p1", surface="らみちゃん", kind="nickname")
+    assert check_alias_name_part_surface_is_substring([row], entries) == []
+
+
+def test_single_char_reading_is_rejected():
+    for surface in ("ハ", "ケイ"):
+        errors = check_alias_no_single_char_reading([make_alias_row(surface=surface, reading="は")])
+        assert len(errors) == 1, surface
+        assert "1 文字" in errors[0]
+
+
+def test_single_char_surface_with_longer_reading_is_allowed():
+    assert check_alias_no_single_char_reading([make_alias_row(surface="榊", reading="さかき")]) == []
+
+
 def test_duplicate_person_surface_reading_is_rejected():
     rows = [
         make_alias_row(line_no=2, person_id="p1", surface="A", reading="あ"),
@@ -144,3 +185,6 @@ def test_invalid_fixture_collects_all_error_types():
     assert any("unknown-person" in e for e in errors)  # person_id 不在
     assert any("reading_variant" in e for e in errors)  # surface 不一致
     assert any("重複" in e for e in errors)  # 重複
+    assert any("family_name" in e and "葛丸" in e for e in errors)  # 姓が正式名に含まれない
+    assert any("short_name" in e and "葛葉丸" in e for e in errors)  # short_name の surface 不一致
+    assert any("1 文字です" in e for e in errors)  # reading が 1 文字
