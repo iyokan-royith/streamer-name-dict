@@ -1,1 +1,2 @@
-pytest>=8.0
+# 実行時依存（build.py・promote.py・lib/）は標準ライブラリのみで完結するため、現状は空。
+# 開発・CI 用の依存（pytest・ruff・yamllint）は requirements-dev.txt を参照。

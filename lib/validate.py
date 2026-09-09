@@ -1,15 +1,22 @@
 """entries.tsv の入力検証。
 
 CI で門番として使う想定なので、検出したエラーは1つに絞らず全部集めて返す。
+
+単体で構文・検証だけを走らせたい場合（CI の lint ジョブ・手元確認）は CLI として実行できる:
+    python -m lib.validate data/entries.tsv data/aliases.tsv
+（aliases.tsv は省略可。省略時は entries.tsv と同じディレクトリの aliases.tsv を探し、無ければ0件扱い）
 """
 from __future__ import annotations
 
+import argparse
 import re
+import sys
+from pathlib import Path
 
-from .aliases import AliasRow
+from .aliases import AliasRow, load_aliases
 from .aliases import REQUIRED_FIELDS as ALIAS_REQUIRED_FIELDS
 from .aliases import VALID_KINDS
-from .entries import EntryRow, REQUIRED_FIELDS, VALID_READING_SOURCES, VALID_STATUSES
+from .entries import EntryRow, REQUIRED_FIELDS, VALID_READING_SOURCES, VALID_STATUSES, load_entries
 
 # ひらがなのみを許可する（長音記号「ー」は将来の読みで使う可能性があるため許容）。
 # 「ゔ」（U+3094・ヴ音のひらがな表記）はひらがな連続範囲 ぁ-ん の外側にあるため個別に許容する
@@ -182,3 +189,43 @@ def validate_aliases(rows: list[AliasRow], entry_rows: list[EntryRow]) -> list[s
     errors += check_alias_reading_variant_surface_matches(rows, entry_rows)
     errors += check_no_duplicate_alias(rows)
     return errors
+
+
+# --- CLI（build.py から検証だけを切り離して単体で走らせたい場合用。出口のみでロジックは持たない） ---
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("entries", help="entries.tsv のパス")
+    parser.add_argument(
+        "aliases",
+        nargs="?",
+        default=None,
+        help="aliases.tsv のパス（省略時は entries と同じディレクトリの aliases.tsv。無ければ0件扱い）",
+    )
+    args = parser.parse_args(argv)
+
+    entries_path = Path(args.entries)
+    if not entries_path.exists():
+        print(f"エラー: {entries_path} が見つかりません", file=sys.stderr)
+        return 1
+
+    aliases_path = Path(args.aliases) if args.aliases else entries_path.parent / "aliases.tsv"
+
+    rows = load_entries(entries_path)
+    alias_rows = load_aliases(aliases_path) if aliases_path.exists() else []
+
+    errors = validate_entries(rows)
+    errors += validate_aliases(alias_rows, rows)
+    if errors:
+        print(f"検証エラー: {len(errors)} 件", file=sys.stderr)
+        for e in errors:
+            print(f"  - {e}", file=sys.stderr)
+        return 1
+
+    print(f"検証OK: entries {len(rows)} 行・aliases {len(alias_rows)} 行")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
