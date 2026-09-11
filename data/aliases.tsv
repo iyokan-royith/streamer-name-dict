@@ -255,3 +255,57 @@ holostars-yukokuroberu	夕刻ロベル	ろべる	short_name	本人チャンネ�
 holostars-aragamioga	荒咬オウガ	おうが	short_name	本人チャンネル名の短縮名（Oga）からフルネームへ	2026-09-09
 holostars-yatogamifuma	夜十神封魔	ふうま	short_name	本人チャンネル名の短縮名（Fuma）からフルネームへ	2026-09-09
 holostars-utsugiuyu	羽継烏有	うゆう	short_name	本人チャンネル名の短縮名（Uyu）からフルネームへ	2026-09-09
+aogiri-puwapuwapopura	ぷわぷわ	ぷわぷわ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-puwapuwapopura	ぽぷら	ぽぷら	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-ishikariakari	石狩	いしかり	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-ishikariakari	あかり	あかり	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-kurikomakomaru	栗駒	くりこま	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-kurikomakomaru	こまる	こまる	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-gaburieru	我部	がぶ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-gaburieru	りえる	りえる	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-yasoshinamujina	八十科	やそしな	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-yasoshinamujina	むじな	むじな	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vspo-rikosolari	ソラリ	そらり	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vspo-rikosolari	リコ	りこ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vspo-ginjosaine	銀城	ぎんじょう	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-ginjosaine	サイネ	さいね	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-tatsumakichise	龍巻	たつまき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-tatsumakichise	ちせ	ちせ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-remiaaotsuki	青月	あおつき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-remiaaotsuki	レミア	れみあ	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-aryakuroha	黒刃	くろは	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-aryakuroha	アリヤ	ありや	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-jirajisaki	地崎	じさき	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-jirajisaki	ジラ	じら	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-narinmikure	美暮	みくれ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-narinmikure	ナリン	なりん	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-erissuzukami	涼上	すずかみ	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-erissuzukami	エリス	えりす	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-junoumezono	梅園	うめぞの	family_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vspo-junoumezono	ジュノ	じゅの	given_name	Wikipedia かな表記の語区切り＋かな境界で分割	2026-09-12
+vee-anewuparu	亞生	あにゅう	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-anewuparu	うぱる	うぱる	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-amakomolinon	天籠	あまこも	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-amakomolinon	りのん	りのん	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-ameniwayae	雨庭	あめにわ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-ameniwayae	やえ	やえ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-eraiamae	偉雷	えらい	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-eraiamae	アマエ	あまえ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-otokadoruki	音門	おとかど	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-otokadoruki	るき	るき	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-kashiwagimomo	柏木	かしわぎ	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-kashiwagimomo	もも	もも	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-kokuyoulira	黒燿	こくよう	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-kokuyoulira	リラ	りら	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-hinahoshiairu	雛星	ひなほし	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-hinahoshiairu	あいる	あいる	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-hiyorichihiyo	日和	ひより	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-hiyorichihiyo	ちひよ	ちひよ	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-mememorian	芽々守	めめもり	family_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+vee-mememorian	あん	あん	given_name	公式ローマ字の語区切り＋かな境界で分割	2026-09-12
+aogiri-kurikomakomaru	栗駒こまる	こまる	short_name	本人チャンネル名の短縮名（こまる）からフルネームへ	2026-09-12
+aogiri-chiyourachiyomi	千代浦蝶美	ちよみ	short_name	本人チャンネル名の短縮名（ちよみ）からフルネームへ	2026-09-12
+aogiri-gaburieru	我部りえる	りえる	short_name	本人チャンネル名の短縮名（Rieru）からフルネームへ	2026-09-12
+vspo-komorimet	小森 めと	めと	short_name	本人チャンネル名の短縮名（Met）からフルネームへ	2026-09-12
+vspo-yumenoakari	夢野 あかり	あかり	short_name	本人チャンネル名の短縮名（Akari）からフルネームへ	2026-09-12
+vee-amakomolinon	天籠りのん	りのん	short_name	本人チャンネル名の短縮名（Linon）からフルネームへ	2026-09-12
