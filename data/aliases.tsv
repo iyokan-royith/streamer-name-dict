@@ -309,3 +309,164 @@ aogiri-gaburieru	我部りえる	りえる	short_name	本人チャンネル名�
 vspo-komorimet	小森 めと	めと	short_name	本人チャンネル名の短縮名（Met）からフルネームへ	2026-09-12
 vspo-yumenoakari	夢野 あかり	あかり	short_name	本人チャンネル名の短縮名（Akari）からフルネームへ	2026-09-12
 vee-amakomolinon	天籠りのん	りのん	short_name	本人チャンネル名の短縮名（Linon）からフルネームへ	2026-09-12
+vspo-kagasumire	花芽	かが	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kagasumire	すみれ	すみれ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kaganazuna	花芽	かが	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kaganazuna	なずな	なずな	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kogaratoto	小雀	こがら	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kogaratoto	とと	とと	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-ichinoseuruha	一ノ瀬	いちのせ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-ichinoseuruha	うるは	うるは	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kuruminoah	胡桃	くるみ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kuruminoah	のあ	のあ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-tosakimimi	兎咲	とさき	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-tosakimimi	ミミ	みみ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-asumisena	空澄	あすみ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-asumisena	セナ	せな	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-tachibanahinano	橘	たちばな	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-tachibanahinano	ひなの	ひなの	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-hanabusalisa	英	はなぶさ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-hanabusalisa	リサ	りさ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kisaragiren	如月	きさらぎ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kisaragiren	れん	れん	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kaminariqpi	神成	かみなり	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-kaminariqpi	きゅぴ	きゅぴ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-yakumobeni	八雲	やくも	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-yakumobeni	べに	べに	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-aizawaema	藍沢	あいざわ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-aizawaema	エマ	えま	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-shinomiyaruna	紫宮	しのみや	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-shinomiyaruna	るな	るな	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-nekotatsuna	猫汰	ねこた	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-nekotatsuna	つな	つな	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-shiranamiramune	白波	しらなみ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-shiranamiramune	らむね	らむね	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-komorimet	小森	こもり	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-komorimet	めと	めと	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-yumenoakari	夢野	ゆめの	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-yumenoakari	あかり	あかり	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-yanokuromu	夜乃	やの	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-yanokuromu	くろむ	くろむ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-tsumugikokage	紡木	つむぎ	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-tsumugikokage	こかげ	こかげ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-sendoyuuhi	千燈	せんどう	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-sendoyuuhi	ゆうひ	ゆうひ	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-choyahanabi	蝶屋	ちょうや	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-choyahanabi	はなび	はなび	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-amayuimoka	甘結	あまゆい	family_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+vspo-amayuimoka	もか	もか	given_name	Wikipedia かな表記の語区切り＋表記の空白で分割	2026-09-12
+nijisanji-voxakuma	ヴォックス	ゔぉっくす	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-voxakuma	アクマ	あくま	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-laureniroas	ローレン	ろーれん	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-laureniroas	イロアス	いろあす	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-lucakaneshiro	ルカ	るか	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-lucakaneshiro	カネシロ	かねしろ	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-angekatrina	アンジュ	あんじゅ	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-angekatrina	カトリーナ	かとりーな	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-lizehelesta	リゼ	りぜ	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-lizehelesta	ヘルエスタ	へるえすた	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-arsalmal	アルス	あるす	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-arsalmal	アルマル	あるまる	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-albanknox	アルバーン	あるばーん	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-albanknox	ノックス	のっくす	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-melocokyoran	狂蘭	きょうらん	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-melocokyoran	メロコ	めろこ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-nuisociere	ニュイ	にゅい	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-nuisociere	ソシエール	そしえーる	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ukivioleta	浮奇	うき	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ukivioleta	ヴィオレタ	ゔぃおれた	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-joerikiichi	ジョー	じょー	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-joerikiichi	力一	りきいち	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-debidebidebiru	でびでび	でびでび	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-debidebidebiru	でびる	でびる	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ennaalouette	エナー	えなー	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ennaalouette	アールウェット	あーるうぇっと	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ratnapetit	ラトナ	らとな	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ratnapetit	プティ	ぷてぃ	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-sisterclaire	シスター	しすたー	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-sisterclaire	クレア	くれあ	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-exalbio	エクス	えくす	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-exalbio	アルビオ	あるびお	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-renzotto	レン	れん	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-renzotto	ゾット	ぞっと	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-sonnybrisko	サニー	さにー	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-sonnybrisko	ブリスコー	ぶりすこー	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-elirapendora	エリーラ	えりーら	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-elirapendora	ペンドラ	ぺんどら	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-leosvincent	レオス	れおす	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-leosvincent	ヴィンセント	ゔぃんせんと	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-petragurin	ペトラ	ぺとら	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-petragurin	グリン	ぐりん	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-belmondbanderas	ベルモンド	べるもんど	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-belmondbanderas	バンデラス	ばんでらす	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-millieparfait	ミリー	みりー	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-millieparfait	パフェ	ぱふぇ	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-mariamarionette	マリア	まりあ	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-mariamarionette	マリオネット	まりおねっと	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-finanaryugu	フィナーナ	ふぃなーな	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-finanaryugu	竜宮	りゅうぐう	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-lainpaterson	レイン	れいん	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-lainpaterson	パターソン	ぱたーそん	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-seraphdazzlegarden	セラフ	せらふ	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-seraphdazzlegarden	ダズルガーデン	だずるがーでん	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-shellinburgundy	シェリン	しぇりん	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-shellinburgundy	バーガンディ	ばーがんでぃ	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-levielipha	レヴィ	れゔぃ	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-levielipha	エリファ	えりふぁ	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-oliverevans	オリバー	おりばー	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-oliverevans	エバンス	えばんす	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-scarleyonaguni	スカーレ	すかーれ	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-scarleyonaguni	ヨナグニ	よなぐに	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-yangnari	ヤン	やん	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-yangnari	ナリ	なり	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-milankestrel	ミラン	みらん	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-milankestrel	ケストレル	けすとれる	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-vantacrowbringer	ベンタクロウ	べんたくろう	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-vantacrowbringer	ブリンガー	ぶりんがー	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-aiaamare	アイア	あいあ	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-aiaamare	アマレ	あまれ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-hanamacchia	ハナ	はな	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-hanamacchia	マキア	まきあ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-doppiodropscythe	ドッピオ	どっぴお	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-doppiodropscythe	ドロップサイト	どろっぷさいと	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-luiscammy	ルイス	るいす	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-luiscammy	キャミー	きゃみー	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-eliconifer	エリー	えりー	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-eliconifer	コニファー	こにふぁー	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ververmillion	ヴェール	ゔぇーる	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-ververmillion	ヴァーミリオン	ゔぁーみりおん	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-vezaliusbandage	ヴェザリウス	ゔぇざりうす	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-vezaliusbandage	バンデージ	ばんでーじ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-kaelixdebonair	ケイリクス	けいりくす	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-kaelixdebonair	デボネア	でぼねあ	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-zealginjoka	ジール	じーる	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-zealginjoka	ギンジョウカ	ぎんじょうか	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-minsuha	ミン	みん	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-minsuha	スゥーハ	すぅーは	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-claudeclawmark	クロード	くろーど	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-claudeclawmark	クローマーク	くろーまーく	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-hayun	ユン	ゆん	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-leeroha	ロハ	ろは	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-klaracharmwood	クララ	くらら	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-klaracharmwood	チャームウッド	ちゃーむうっど	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-sonagi	ナギ	なぎ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-nasera	セラ	せら	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-laylaalstroemeria	ライラ	らいら	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-laylaalstroemeria	アルストロエメリア	あるすとろえめりあ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-pomelopunch	ぽめろ	ぽめろ	family_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-pomelopunch	ぱんち	ぱんち	given_name	公式ふりがなの語区切り＋表記の「・」で分割	2026-09-12
+nijisanji-ryomabarrenwort	凉舞	りょうま	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-ryomabarrenwort	バレンウォート	ばれんうぉーと	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-ohjiyu	ジユ	じゆ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-etnacrimson	エトナ	えとな	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-etnacrimson	クリムソン	くりむそん	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-raigalilei	ライ	らい	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-raigalilei	ガリレイ	がりれい	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-deremkado	デレム	でれむ	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-deremkado	カド	かど	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-ryuhari	リュ	りゅ	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-ryuhari	ハリ	はり	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-nagisaarcinia	ナギサ	なぎさ	family_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+nijisanji-nagisaarcinia	アルシニア	あるしにあ	given_name	公式ふりがなの語区切り＋表記の空白で分割	2026-09-12
+vee-geppakului	月白	げっぱく	family_name	公式ローマ字の語区切り＋表記の空白で分割	2026-09-12
+vee-geppakului	累	るい	given_name	公式ローマ字の語区切り＋表記の空白で分割	2026-09-12
